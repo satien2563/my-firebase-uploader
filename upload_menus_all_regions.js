@@ -13,10 +13,10 @@ const db = admin.firestore();
 
 // 3️⃣ prepare regions + file names
 const uploads = [
-  { region: "northern", file: "./Northern_Thai_Cuisine_Expanded-2.json" },
-  { region: "central", file: "./Central_Thai_Cuisine_Expanded-2.json" },
-  { region: "northeastern", file: "./Isan_Thai_Cuisine_Expanded-2.json" },
-  { region: "southern", file: "./Southern_Thai_Cuisine_Expanded-2.json" }
+  { region: "northern", file: "./Nornthern-Final.json" },
+  { region: "central", file: "./Central-Final.json" },
+  { region: "northeastern", file: "./Isan-Final.json" },
+  { region: "southern", file: "./Southern-Final.json" }
 ];
 
 // 4️⃣ upload function

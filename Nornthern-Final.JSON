@@ -1,0 +1,1622 @@
+[
+{
+  "no": 1,
+  "dish_en_th": "Khao Soi Gai (ข้าวซอยไก่)",
+  "dish_en": "Khao Soi Gai (Thai Northern Curry Noodles with Chicken)",
+  "dish_th": "ข้าวซอยไก่",
+  "dish_zh": "泰北咖喱鸡面 (Khao Soi Gai)",
+  "pronunciation": "khao soi gai",
+  "description_en": "Khao Soi Gai is a signature Northern Thai dish consisting of egg noodles in a rich, creamy coconut curry broth, topped with tender chicken, crispy noodles, and traditional condiments.",
+  "description_zh": "泰北咖喱鸡面是一道招牌菜，香浓椰奶咖喱汤配上鸡肉和鸡蛋面，搭配炸脆面条及传统配料，风味独特。",
+  "ingredients_en": [
+    "Chicken drumsticks 2–3",
+    "Khao Soi curry paste 3 tablespoons",
+    "Coconut milk 2 cups",
+    "Chicken stock 2 cups",
+    "Egg noodles (fresh or dried) 200 grams",
+    "Soy sauce 1 tablespoon",
+    "Sugar 1 teaspoon",
+    "Salt to taste",
+    "Vegetable oil (for frying noodles)",
+    "Pickled mustard greens (for garnish)",
+    "Shallots (sliced, for garnish)",
+    "Lime wedges (for garnish)"
+  ],
+  "ingredients_zh": [
+    "鸡腿 2-3 个",
+    "咖喱酱 3 汤匙",
+    "椰奶 2 杯",
+    "鸡高汤 2 杯",
+    "鸡蛋面（新鲜或干面）200 克",
+    "酱油 1 汤匙",
+    "糖 1 茶匙",
+    "盐 适量",
+    "食用油（炸面用）",
+    "酸菜（装饰）",
+    "红葱头（切片，装饰）",
+    "青柠角（装饰）"
+  ],
+  "instructions_en": [
+    "Step 1: Heat coconut milk and chicken stock in a pot.",
+    "Step 2: Add Khao Soi curry paste and stir until fragrant.",
+    "Step 3: Add chicken drumsticks and simmer until tender.",
+    "Step 4: Season with salt, sugar, and soy sauce.",
+    "Step 5: Blanch egg noodles and place in a bowl.",
+    "Step 6: Top with chicken, curry soup, and crispy fried noodles. Garnish with shallots, pickled mustard greens, and lime wedges."
+  ],
+  "instructions_zh": [
+    "步骤1：锅中加热椰奶和鸡高汤。",
+    "步骤2：加入咖喱酱，翻炒出香味。",
+    "步骤3：放入鸡腿，小火炖煮至软烂。",
+    "步骤4：加入盐、糖和酱油调味。",
+    "步骤5：将鸡蛋面焯水，放入碗中。",
+    "步骤6：淋上鸡腿咖喱汤，撒上炸脆面条、红葱头、酸菜和柠檬片装饰。"
+  ],
+  "nutrition": [
+    "Calories: 550 kcal",
+    "Fat: 25g",
+    "Protein: 28g",
+    "Carbohydrates: 45g",
+    "Sugar: 6g",
+    "Sodium: 900mg"
+  ],
+  "dietary_tags": [
+    "High Protein",
+    "Contains Coconut Milk",
+    "Spicy",
+    "Contains Gluten"
+  ],
+  "suitable_for": [
+    "General Public",
+    "Tourists",
+    "Spicy Food Lovers",
+    "Not Suitable for Vegetarians"
+  ],
+  "region": "northern",
+  "category": "noodle dish",
+  "spicy_level": "(3) Medium Spicy",
+  "image_main_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northern%2F01-Khao-Soi-Gai-main.png?alt=media",
+  "image_detail_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northern%2F01-Khao-Soi-Gai-thumb.png?alt=media",
+  "tags": "khao soi gai, northern thai curry noodles, chicken noodles, spicy curry noodles, northern",
+  "recommend": "yes",
+  "available_season": "all year"
+},
+{
+  "no": 2,
+  "dish_en_th": "Moo Yor (หมูยอ)",
+  "dish_en": "Moo Yor (Northern Thai Pork Sausage)",
+  "dish_th": "หมูยอ",
+  "dish_zh": "泰北猪肉卷 (Moo Yor)",
+  "pronunciation": "moo yor",
+  "description_en": "Moo Yor is a popular Northern Thai pork sausage known for its smooth, bouncy texture and savory flavor. Made with seasoned ground pork and steamed in banana leaves, it is often enjoyed as a snack, part of a platter, or served with sticky rice.",
+  "description_zh": "泰北特色猪肉卷，以调味猪肉末制成，质地细腻有弹性，蒸煮于香蕉叶中，常作为小吃、拼盘或搭配糯米饭享用，深受游客喜爱。",
+  "ingredients_en": [
+    "Ground pork with fat 1 kilogram",
+    "Vegetable oil 2 tablespoons",
+    "Fish sauce 4 tablespoons",
+    "Sugar 1 tablespoon",
+    "Ground white pepper 1 tablespoon",
+    "Baking powder 1 1/2 tablespoons",
+    "Tapioca starch 2 tablespoons",
+    "Banana leaves (for wrapping)",
+    "Rubber bands (for tying)"
+  ],
+  "ingredients_zh": [
+    "肥瘦猪肉末 1 公斤",
+    "植物油 2 汤匙",
+    "鱼露 4 汤匙",
+    "白糖 1 汤匙",
+    "白胡椒粉 1 汤匙",
+    "泡打粉 1 1/2 汤匙",
+    "木薯淀粉 2 汤匙",
+    "香蕉叶（用于包裹）",
+    "橡皮筋（用于捆绑）"
+  ],
+  "instructions_en": [
+    "Step 1: Prepare and season the pork. In a large mixing bowl, combine ground pork with vegetable oil, fish sauce, sugar, ground white pepper, baking powder, and tapioca starch. Mix thoroughly.",
+    "Step 2: Transfer the seasoned pork to a food processor and blend until smooth. Optionally, add ice cubes during blending to improve texture.",
+    "Step 3: Chill the mixture briefly in the refrigerator.",
+    "Step 4: Prepare banana leaves. Cut two sizes of leaves: smaller (4–5 inches wide) and larger (12–16 inches).",
+    "Step 5: To wrap, lay the larger banana leaf flat and arrange 3–4 smaller leaves in the center. Spoon about 150–180 grams of pork mixture onto the leaves.",
+    "Step 6: Roll the leaves tightly into a cylinder. Fold the ends and secure with rubber bands.",
+    "Step 7: Steam the wrapped sausages in boiling water for 30–40 minutes, adjusting time depending on size.",
+    "Step 8: Once cooked, let cool slightly. Serve sliced with sticky rice, fresh vegetables, or as part of a Northern Thai platter."
+  ],
+  "instructions_zh": [
+    "步骤1：准备并调味猪肉。在大碗中将猪肉末、植物油、鱼露、白糖、白胡椒粉、泡打粉和木薯淀粉充分混合。",
+    "步骤2：将调味好的猪肉放入料理机搅打至细滑，可在搅打过程中加入冰块以改善口感。",
+    "步骤3：将搅好的肉馅冷藏片刻。",
+    "步骤4：准备香蕉叶，剪成两种尺寸：小片（宽4–5英寸）和大片（12–16英寸）。",
+    "步骤5：包裹时，将大张香蕉叶铺平，中间放上3–4张小香蕉叶，取约150–180克肉馅置于中央。",
+    "步骤6：将叶子卷成紧密的圆柱形，两端折叠，用橡皮筋绑紧。",
+    "步骤7：将包好的猪肉卷放入沸水中蒸30–40分钟，具体时间根据大小调整。",
+    "步骤8：蒸熟后稍微放凉，切片搭配糯米饭、鲜蔬或作为泰北拼盘的一部分享用。"
+  ],
+  "nutrition": [
+    "Calories: 280 kcal",
+    "Fat: 22g",
+    "Protein: 18g",
+    "Carbohydrates: 3g",
+    "Sugar: 1g",
+    "Sodium: 950mg"
+  ],
+  "dietary_tags": [
+    "Contains Pork",
+    "Contains Fish Sauce",
+    "Gluten Free",
+    "Low Carb",
+    "Traditional Northern Thai Dish",
+    "Steamed",
+    "Cold Cut",
+    "Popular Snack"
+  ],
+  "suitable_for": [
+    "General Public",
+    "Tourists",
+    "Pork Eaters",
+    "Snack Lovers",
+    "Northern Thai Food Lovers",
+    "Street Food Lovers",
+    "Not Suitable for Vegetarians"
+  ],
+  "region": "northern",
+  "category": "cold cut",
+  "spicy_level": "(0) Not Spicy",
+  "image_main_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northern%2F02-Moo-Yor-main.png?alt=media",
+  "image_detail_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northern%2F02-Moo-Yor-thumb.png?alt=media",
+  "tags": "moo yor, northern thai sausage, steamed pork roll, northern thai cold cut",
+  "recommend": "yes",
+  "available_season": "year-round"
+},
+{
+  "no": 3,
+  "dish_en_th": "Sai Ua (ไส้อั่ว)",
+  "dish_en": "Sai Ua (Northern Thai Grilled Herb Sausage)",
+  "dish_th": "ไส้อั่ว",
+  "dish_zh": "泰北香料烤肠 (Sai Ua)",
+  "pronunciation": "sai ua",
+  "description_en": "Sai Ua is a famous Northern Thai grilled sausage made with minced pork, pork fat, and fragrant herbs and spices. It is typically served with sticky rice, fresh vegetables, and green chili dip (Nam Prik Noom).",
+  "description_zh": "泰北香料烤肠是一道特色烤肠，由猪肉、猪油和多种香料制成，通常搭配糯米饭、新鲜蔬菜和泰北青椒蘸酱食用。",
+  "ingredients_en": [
+    "Minced pork 700 grams",
+    "Diced pork fat 300 grams",
+    "Fresh or salted pork casing 200 grams",
+    "Egg 1",
+    "Sai Ua curry paste:",
+    "Dried bird’s eye chilies (soaked) 7",
+    "Dried spur chilies (soaked) 15",
+    "Thai garlic 20 grams",
+    "Shallots 70 grams",
+    "Sliced lemongrass 40 grams",
+    "Galangal 30 grams",
+    "Kaffir lime zest from 1/2 fruit",
+    "Fresh turmeric 30 grams",
+    "Coriander roots 20 grams",
+    "Shrimp paste 1 tablespoon",
+    "Salt 1 teaspoon",
+    "Seasoning ingredients:",
+    "Sugar 2 tablespoons",
+    "Oyster sauce 4 tablespoons",
+    "Fish sauce 1 tablespoon",
+    "MSG (optional) 2 teaspoons",
+    "Finely shredded kaffir lime leaves 2 tablespoons",
+    "Chopped coriander and spring onions 1 cup"
+  ],
+  "ingredients_zh": [
+    "猪肉末 700 克",
+    "猪油丁 300 克",
+    "新鲜或腌制猪肠衣 200 克",
+    "鸡蛋 1 个",
+    "香料酱材料：",
+    "泡软小辣椒干 7 个",
+    "泡软大辣椒干 15 个",
+    "泰国蒜 20 克",
+    "红葱头 70 克",
+    "香茅切片 40 克",
+    "南姜 30 克",
+    "青柠皮（半个）",
+    "黄姜 30 克",
+    "香菜根 20 克",
+    "虾酱 1 汤匙",
+    "盐 1 茶匙",
+    "调味料：",
+    "糖 2 汤匙",
+    "蚝油 4 汤匙",
+    "鱼露 1 汤匙",
+    "味精（可选）2 茶匙",
+    "青柠叶丝 2 汤匙",
+    "香菜和葱花 1 杯"
+  ],
+  "instructions_en": [
+    "Step 1: Pound or blend all curry paste ingredients until smooth.",
+    "Step 2: Mix the curry paste thoroughly with minced pork, pork fat, egg, and seasonings. Knead until well combined.",
+    "Step 3: Stuff the seasoned pork mixture into the prepared pork casing. Tie the ends with string or toothpicks.",
+    "Step 4: Grill the sausage over low heat, pricking the casing with a toothpick to release excess moisture and prevent bursting.",
+    "Step 5: Turn frequently until golden and aromatic. Slice and serve with fresh vegetables and green chili dip."
+  ],
+  "instructions_zh": [
+    "步骤1：将所有香料酱材料捣碎或搅拌成细腻酱料。",
+    "步骤2：将香料酱与猪肉末、猪油丁、鸡蛋和调味料充分混合，揉匀。",
+    "步骤3：将调好的肉馅灌入准备好的猪肠衣中，两端用绳子或牙签扎紧。",
+    "步骤4：用小火慢慢烤制，用牙签戳孔排出多余水分，防止肠衣破裂。",
+    "步骤5：勤翻面至表面金黄香脆，切片搭配新鲜蔬菜和青辣椒蘸酱食用。"
+  ],
+  "nutrition": [
+    "Calories: 680 kcal",
+    "Fat: 50g",
+    "Protein: 30g",
+    "Carbohydrates: 6g",
+    "Sugar: 3g",
+    "Sodium: 1200mg"
+  ],
+  "dietary_tags": [
+    "High Protein",
+    "Contains Pork",
+    "Contains Shellfish (Shrimp Paste)",
+    "Spicy",
+    "Grilled",
+    "Contains MSG (optional)"
+  ],
+  "suitable_for": [
+    "General Public",
+    "Tourists",
+    "Spicy Food Lovers",
+    "Grilled Food Lovers",
+    "Not Suitable for Vegetarians",
+    "Not Suitable for Halal"
+  ],
+  "region": "northern",
+  "category": "grilled dish",
+  "spicy_level": "(3) Medium Spicy",
+  "image_main_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northern%2F03-Sai-Ua-main.png?alt=media",
+  "image_detail_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northern%2F03-Sai-Ua-thumb.png?alt=media",
+  "tags": "sai ua, northern thai sausage, grilled herb sausage, spicy grilled sausage, northern",
+  "recommend": "yes",
+  "available_season": "all year"
+},
+{
+  "no": 4,
+  "dish_en_th": "Khaep Moo (แคบหมู)",
+  "dish_en": "Khaep Moo (Crispy Pork Rinds)",
+  "dish_th": "แคบหมู",
+  "dish_zh": "泰式炸猪皮 (Khaep Moo)",
+  "pronunciation": "khaep moo",
+  "description_en": "Khaep Moo is a crispy Northern Thai snack made from deep-fried pork skin with fat. It's often enjoyed with green chili dip (Nam Prik Noom) or served as a crunchy side with various Northern Thai dishes.",
+  "description_zh": "泰式炸猪皮是泰北特色小吃，肥猪皮炸至酥脆，常与青辣椒蘸酱搭配，或作为配菜食用。",
+  "ingredients_en": [
+    "Pork skin with fat 2 kilograms",
+    "Salt 1 teaspoon",
+    "Dark soy sauce 1/2 tablespoon",
+    "Pork lard (for frying) 2 kilograms"
+  ],
+  "ingredients_zh": [
+    "带肥猪皮 2 公斤",
+    "盐 1 茶匙",
+    "老抽 1/2 汤匙",
+    "猪油（用于炸制）2 公斤"
+  ],
+  "instructions_en": [
+    "Step 1: Cut the pork skin into strips about 1 x 6 inches.",
+    "Step 2: Mix the pork skin with dark soy sauce and salt in a pan. Marinate for about 10 minutes.",
+    "Step 3: Add pork lard to the pan and heat over low heat.",
+    "Step 4: When the pork skin starts to firm up, continue frying for about 30 minutes.",
+    "Step 5: Remove the pork skin and let rest for about 10 minutes.",
+    "Step 6: Heat the oil to high temperature, then deep fry the pork skin again until golden and crispy.",
+    "Step 7: Remove and let cool. Store in bags to maintain crispiness."
+  ],
+  "instructions_zh": [
+    "步骤1：将猪皮切成约 1 x 6 英寸的条状。",
+    "步骤2：将猪皮与老抽和盐混合，放入锅中拌匀，腌制约 10 分钟。",
+    "步骤3：锅中加入猪油，小火加热。",
+    "步骤4：当猪皮开始变紧实时，继续炸约 30 分钟。",
+    "步骤5：捞出猪皮，静置约 10 分钟。",
+    "步骤6：将油加热至高温，再次炸猪皮，直到金黄酥脆。",
+    "步骤7：捞出沥油，放凉后装袋保存酥脆口感。"
+  ],
+  "nutrition": [
+    "Calories: 600 kcal per 50g serving",
+    "Fat: 50g",
+    "Protein: 25g",
+    "Carbohydrates: 0g",
+    "Sugar: 0g",
+    "Sodium: 700mg"
+  ],
+  "dietary_tags": [
+    "Contains Pork",
+    "High Fat",
+    "Gluten Free",
+    "Crispy Snack"
+  ],
+  "suitable_for": [
+    "General Public",
+    "Tourists",
+    "Pork Eaters",
+    "Snack Lovers",
+    "Not Suitable for Vegetarians"
+  ],
+  "region": "northern",
+  "category": "snack",
+  "spicy_level": "(0) Not Spicy",
+  "image_main_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northern%2F04-Khaep-Moo-main.png?alt=media",
+  "image_detail_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northern%2F04-Khaep-Moo-thumb.png?alt=media",
+  "tags": "khaep moo, crispy pork rinds, pork snack, northern thai snack, northern",
+  "recommend": "yes",
+  "available_season": "all year"
+},
+{
+  "no": 5,
+  "dish_en_th": "Larb Kua (ลาบคั่ว)",
+  "dish_en": "Larb Kua (Northern Thai Spicy Stir-Fried Minced Pork Salad)",
+  "dish_th": "ลาบคั่ว (อาหารเหนือ)",
+  "dish_zh": "泰北炒辣猪肉沙拉 (Larb Kua)",
+  "pronunciation": "larb kua",
+  "description_en": "Larb Kua is a traditional Northern Thai stir-fried minced pork salad made with pork, pork blood, pork offal, and aromatic herbs and spices. It is a rich, spicy dish typically served with sticky rice and fresh vegetables.",
+  "description_zh": "泰北炒辣猪肉沙拉是一道传统的北部泰国菜，采用猪肉、猪血、猪杂及香料炒制，香辣浓郁，通常配糯米饭和新鲜蔬菜食用。",
+  "ingredients_en": [
+    "Minced pork (low fat) 400 grams",
+    "Pork skin with fat 100 grams",
+    "Pork lung 100 grams",
+    "Pork intestine 100 grams",
+    "Fresh pork blood 150 milliliters",
+    "Northern Larb spice mix 10 tablespoons",
+    "Vietnamese coriander (Pak Phiew) 1 small bunch",
+    "Spring onions 4-5 stalks",
+    "Coriander 4-5 stalks",
+    "Fried shallots 5 tablespoons",
+    "Fried garlic 5 tablespoons",
+    "Chili powder to taste",
+    "Fish sauce to taste",
+    "Sugar to taste",
+    "Seasoning powder to taste"
+  ],
+  "ingredients_zh": [
+    "低脂猪肉末 400 克",
+    "带肥猪皮 100 克",
+    "猪肺 100 克",
+    "猪肠 100 克",
+    "新鲜猪血 150 毫升",
+    "泰北辣拌料（Larb 香料）10 汤匙",
+    "越南香菜（Pak Phiew）1 小把",
+    "葱 4-5 根",
+    "香菜 4-5 根",
+    "炸洋葱酥 5 汤匙",
+    "炸蒜酥 5 汤匙",
+    "辣椒粉 适量",
+    "鱼露 适量",
+    "糖 适量",
+    "调味粉 适量"
+  ],
+  "instructions_en": [
+    "Step 1: Mix minced pork with the Northern Larb spice mix and fresh pork blood. Mix thoroughly.",
+    "Step 2: Heat a pan without adding oil. Add pork skin with a little water. Stir-fry until pork skin releases fat.",
+    "Step 3: Add Northern Larb spice mix. Stir-fry over low heat until fragrant.",
+    "Step 4: Add pork organs and the pork mixture with blood. Stir well.",
+    "Step 5: Season with salt, fish sauce, seasoning powder, and sugar. Stir continuously until cooked.",
+    "Step 6: If a spicier flavor is desired, add chili powder to taste.",
+    "Step 7: Add Vietnamese coriander, spring onions, and coriander. Stir briefly.",
+    "Step 8: Turn off heat. Garnish with fried shallots, fried garlic, and dried chilies. Serve."
+  ],
+  "instructions_zh": [
+    "步骤1：将猪肉末与泰北辣拌料和新鲜猪血混合，搅拌均匀。",
+    "步骤2：锅中无需加油，放入带肥猪皮，加入少量清水，翻炒至出油。",
+    "步骤3：加入泰北辣拌料，小火炒香。",
+    "步骤4：加入猪杂和猪血混合的肉末，翻炒均匀。",
+    "步骤5：用盐、鱼露、调味粉和糖调味，持续翻炒至熟透。",
+    "步骤6：如需更辣，可根据口味加入辣椒粉。",
+    "步骤7：加入越南香菜、葱花和香菜，快速翻炒。",
+    "步骤8：关火，撒上炸洋葱酥、炸蒜酥及干辣椒即可装盘食用。"
+  ],
+  "nutrition": [
+    "Calories: 580 kcal",
+    "Fat: 40g",
+    "Protein: 35g",
+    "Carbohydrates: 5g",
+    "Sugar: 2g",
+    "Sodium: 1100mg"
+  ],
+  "dietary_tags": [
+    "Contains Pork",
+    "Contains Pork Blood",
+    "Contains Pork Organs",
+    "Spicy",
+    "Traditional Northern Thai Dish",
+    "Gluten Free"
+  ],
+  "suitable_for": [
+    "General Public",
+    "Tourists",
+    "Pork Eaters",
+    "Spicy Food Lovers",
+    "Northern Thai Food Lovers",
+    "Not Suitable for Vegetarians"
+  ],
+  "region": "northern",
+  "category": "stir-fried dish",
+  "spicy_level": "(4) Very Spicy",
+  "image_main_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northern%2F05-Larb-Kua-main.png?alt=media",
+  "image_detail_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northern%2F05-Larb-Kua-thumb.png?alt=media",
+  "tags": "larb kua, northern larb, stir-fried minced pork salad, northern thai spicy pork, northern",
+  "recommend": "yes",
+  "available_season": "all year"
+},
+{
+  "no": 6,
+  "dish_en_th": "Nam Prik Noom (น้ำพริกหนุ่ม)",
+  "dish_en": "Nam Prik Noom (Northern Thai Green Chili Dip)",
+  "dish_th": "น้ำพริกหนุ่ม",
+  "dish_zh": "泰北烤青椒蘸酱 (Nam Prik Noom)",
+  "pronunciation": "nam prik noom",
+  "description_en": "Nam Prik Noom is a Northern Thai green chili dip made from grilled green chilies, shallots, and garlic. It is a smoky, spicy condiment typically served with steamed vegetables, crispy pork rinds, and sticky rice.",
+  "description_zh": "泰北烤青椒蘸酱采用烤青辣椒、洋葱和蒜制成，口感香辣带烟熏味，常搭配蒸蔬菜、炸猪皮和糯米饭食用。",
+  "ingredients_en": [
+    "Grilled green chilies 5",
+    "Grilled shallots 5",
+    "Grilled garlic cloves 8",
+    "Salt 1/2 teaspoon",
+    "Chopped coriander 1/2 tablespoon",
+    "Chopped spring onions 1/2 tablespoon"
+  ],
+  "ingredients_zh": [
+    "烤青辣椒 5 个",
+    "烤洋葱头 5 个",
+    "烤蒜瓣 8 个",
+    "盐 1/2 茶匙",
+    "香菜末 1/2 汤匙",
+    "葱花 1/2 汤匙"
+  ],
+  "instructions_en": [
+    "Step 1: Grill green chilies, garlic, and shallots. Remove the skins.",
+    "Step 2: Pound the grilled ingredients with salt until smooth.",
+    "Step 3: Garnish with chopped coriander and spring onions before serving."
+  ],
+  "instructions_zh": [
+    "步骤1：将青辣椒、蒜和洋葱烤香，去皮。",
+    "步骤2：将烤好的食材与盐一起捣碎至细腻。",
+    "步骤3：撒上香菜末和葱花后即可食用。"
+  ],
+  "nutrition": [
+    "Calories: 50 kcal per serving (~60g)",
+    "Fat: 1g",
+    "Protein: 2g",
+    "Carbohydrates: 10g",
+    "Sugar: 3g",
+    "Sodium: 400mg"
+  ],
+  "dietary_tags": [
+    "Vegetarian",
+    "Vegan",
+    "Gluten Free",
+    "Low Calorie",
+    "Spicy"
+  ],
+  "suitable_for": [
+    "General Public",
+    "Vegetarians",
+    "Vegans",
+    "Tourists",
+    "Spicy Food Lovers",
+    "Health Conscious Eaters"
+  ],
+  "region": "northern",
+  "category": "dip",
+  "spicy_level": "(3) Medium Spicy",
+  "image_main_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northern%2F06-NamPrik-Noom-main.png?alt=media",
+  "image_detail_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northern%2F06-NamPrik-Noom-thumb.png?alt=media",
+  "tags": "nam prik noom, northern thai chili dip, green chili dip, northern spicy dip, northern",
+  "recommend": "yes",
+  "available_season": "all year"
+},
+{
+  "no": 7,
+  "dish_en_th": "Nam Phrik Aong (น้ำพริกอ่อง)",
+  "dish_en": "Nam Phrik Aong (Northern Thai Spicy Tomato and Minced Pork Dip)",
+  "dish_th": "น้ำพริกอ่อง",
+  "dish_zh": "泰北番茄辣椒猪肉蘸酱 (Nam Phrik Aong)",
+  "pronunciation": "nam phrik aong",
+  "description_en": "Nam Phrik Aong is a popular Northern Thai chili dip made with minced pork, tomatoes, and aromatic herbs. It is mildly spicy and served with fresh vegetables and sticky rice.",
+  "description_zh": "泰北番茄辣椒猪肉蘸酱是一道受欢迎的北部泰国蘸酱，采用猪肉末、番茄和香料炒制，微辣，常搭配新鲜蔬菜和糯米饭食用。",
+  "ingredients_en": [
+    "Minced pork 200 grams",
+    "Ripe tomatoes, chopped 200 grams",
+    "Dried cayenne peppers 5-6 (soaked)",
+    "Shallots 5",
+    "Garlic cloves 5",
+    "Coriander roots 2",
+    "Palm sugar 1 tablespoon",
+    "Salt 1/2 teaspoon",
+    "Fish sauce 1 tablespoon",
+    "Vegetable oil 2 tablespoons",
+    "Fresh vegetables (cabbage, cucumber, long beans, etc.) for serving"
+  ],
+  "ingredients_zh": [
+    "猪肉末 200 克",
+    "熟番茄切碎 200 克",
+    "泡软红辣椒 5-6 个",
+    "洋葱头 5 个",
+    "蒜瓣 5 个",
+    "香菜根 2 根",
+    "棕榈糖 1 汤匙",
+    "盐 1/2 茶匙",
+    "鱼露 1 汤匙",
+    "食用油 2 汤匙",
+    "新鲜蔬菜（卷心菜、黄瓜、长豆等）搭配食用"
+  ],
+  "instructions_en": [
+    "Step 1: Pound chili paste ingredients (cayenne peppers, shallots, garlic, coriander root) until smooth.",
+    "Step 2: Add minced pork and pound together lightly.",
+    "Step 3: Heat a pan and stir-fry the minced pork mixture thoroughly.",
+    "Step 4: Add chopped tomatoes and seasoning mixture (palm sugar, salt, fish sauce).",
+    "Step 5: Stir and simmer until the mixture thickens and becomes dry. Serve hot with fresh vegetables."
+  ],
+  "instructions_zh": [
+    "步骤1：将辣椒酱材料（红辣椒、洋葱、蒜头、香菜根）捣碎成细腻状。",
+    "步骤2：加入猪肉末，轻轻捣打混合。",
+    "步骤3：加热锅，炒熟猪肉混合物。",
+    "步骤4：加入切碎的番茄和调味料（棕榈糖、盐、鱼露）。",
+    "步骤5：不断翻炒，小火炖煮至酱料浓稠且收干。趁热搭配新鲜蔬菜食用。"
+  ],
+  "nutrition": [
+    "Calories: 180 kcal",
+    "Fat: 10g",
+    "Protein: 15g",
+    "Carbohydrates: 8g",
+    "Sugar: 4g",
+    "Sodium: 950mg"
+  ],
+  "dietary_tags": [
+    "High Protein",
+    "Low Carbohydrates",
+    "Spicy",
+    "Contains Pork",
+    "Gluten Free"
+  ],
+  "suitable_for": [
+    "General Public",
+    "Tourists",
+    "Spicy Food Lovers",
+    "Not Suitable for Vegetarians",
+    "Not Suitable for Halal"
+  ],
+  "region": "northern",
+  "category": "dip",
+  "spicy_level": "(2) Mild to Medium Spicy",
+  "image_main_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northern%2F07-Nam-Phrik-Aong-main.png?alt=media",
+  "image_detail_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northern%2F07-Nam-Phrik-Aong-thumb.png?alt=media",
+  "tags": "nam phrik aong, northern thai dip, spicy pork dip, tomato pork chili dip, northern",
+  "recommend": "yes",
+  "available_season": "all year"
+},
+{
+  "no": 8,
+  "dish_en_th": "Jin Som (จิ๊นส้ม)",
+  "dish_en": "Jin Som (Fermented Sour Pork - Northern Thai Style)",
+  "dish_th": "จิ๊นส้ม",
+  "dish_zh": "泰北酸猪肉 (Jin Som)",
+  "pronunciation": "jin som",
+  "description_en": "Jin Som is a Northern Thai fermented pork dish made with minced pork, pork skin, sticky rice, and garlic. It develops a pleasant sour flavor through natural fermentation and is enjoyed grilled, fried, or eaten as is with fresh vegetables.",
+  "description_zh": "泰北酸猪肉是一道以猪肉末、猪皮、糯米和大蒜发酵而成的传统菜肴，口感酸香，常用烤、煎或直接搭配新鲜蔬菜食用。",
+  "ingredients_en": [
+    "Pork meat 1 kilogram",
+    "Boiled pork skin 100 grams",
+    "Garlic (about 15-20 cloves)",
+    "Salt 1 tablespoon",
+    "Steamed sticky rice 1 cup"
+  ],
+  "ingredients_zh": [
+    "猪肉 1 公斤",
+    "煮熟猪皮 100 克",
+    "大蒜（约15-20瓣）",
+    "盐 1 汤匙",
+    "蒸糯米 1 杯"
+  ],
+  "instructions_en": [
+    "Step 1: Finely mince the pork meat.",
+    "Step 2: Thinly slice the boiled pork skin and mix with the minced pork.",
+    "Step 3: Add salt, cooled steamed sticky rice (rinsed so the grains don’t stick), and pounded garlic (about 10 cloves). Mix well. Adjust salt to taste.",
+    "Step 4: Pack the mixture into a plastic bag (or banana leaf if available), press out air, and tie tightly.",
+    "Step 5: Leave at room temperature to ferment. In hot weather, ferment for 1 day, then refrigerate. For stronger sour flavor, extend fermentation up to 5 days, but avoid over-fermenting as it can affect texture."
+  ],
+  "instructions_zh": [
+    "步骤1：将猪肉剁细。",
+    "步骤2：将煮熟的猪皮切细丝，与剁好的猪肉混合。",
+    "步骤3：加入盐、冷却后的蒸糯米（冲洗过不粘连）和捣碎的大蒜（约10瓣），搅拌均匀。根据口味调整盐量。",
+    "步骤4：将混合好的肉料装入塑料袋（若有香蕉叶更佳），排尽空气，扎紧袋口。",
+    "步骤5：室温下发酵。在炎热天气下发酵1天后冷藏。如喜酸味可发酵至5天，但不宜过久，以免口感变滑。"
+  ],
+  "nutrition": [
+    "Calories: 250 kcal per 100g",
+    "Fat: 15g",
+    "Protein: 20g",
+    "Carbohydrates: 5g",
+    "Sugar: 1g",
+    "Sodium: 1000mg"
+  ],
+  "dietary_tags": [
+    "Contains Pork",
+    "Contains Fermented Ingredients",
+    "Contains Rice",
+    "Traditional Northern Thai Dish",
+    "Gluten Free"
+  ],
+  "suitable_for": [
+    "General Public",
+    "Tourists",
+    "Pork Eaters",
+    "Fermented Food Lovers",
+    "Northern Thai Food Lovers",
+    "Not Suitable for Vegetarians"
+  ],
+  "region": "northern",
+  "category": "fermented dish",
+  "spicy_level": "(0) Not Spicy",
+  "image_main_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northern%2F08-Jin-Som-main.png?alt=media",
+  "image_detail_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northern%2F08-Jin-Som-thumb.png?alt=media",
+  "tags": "jin som, northern thai fermented pork, sour pork, traditional northern thai dish, northern",
+  "recommend": "yes",
+  "available_season": "all year"
+},
+{
+  "no": 9,
+  "dish_en_th": "Jin Ping (จิ๊นปิ้ง)",
+  "dish_en": "Jin Ping (Northern Thai Grilled Pork and Pork Liver Skewers)",
+  "dish_th": "จิ๊นปิ้ง",
+  "dish_zh": "泰北烤猪肉串 (Jin Ping)",
+  "pronunciation": "jin ping",
+  "description_en": "Jin Ping is a traditional Northern Thai grilled snack featuring skewers of marinated pork loin and pork liver. The meat is infused with garlic, coriander root, and pepper, then grilled over charcoal and served hot.",
+  "description_zh": "泰北烤猪肉串是一道传统小吃，选用腌制入味的猪里脊和猪肝，搭配香菜根、大蒜和胡椒调味，炭火慢烤，香气四溢，趁热食用。",
+  "ingredients_en": [
+    "Pork loin 250 grams",
+    "Pork liver 250 grams",
+    "White peppercorns 1 teaspoon",
+    "Chopped coriander roots 2 tablespoons",
+    "Thai garlic cloves 20 cloves",
+    "Sea salt 1½ teaspoons",
+    "Oyster sauce 2 tablespoons",
+    "Seasoning sauce 1 tablespoon",
+    "Skewers"
+  ],
+  "ingredients_zh": [
+    "猪里脊肉 250 克",
+    "猪肝 250 克",
+    "白胡椒粒 1 茶匙",
+    "香菜根切碎 2 汤匙",
+    "泰国蒜瓣 20 瓣",
+    "海盐 1½ 茶匙",
+    "蚝油 2 汤匙",
+    "调味酱油 1 汤匙",
+    "竹签"
+  ],
+  "instructions_en": [
+    "Step 1: Wash the pork loin and cut into rectangular pieces about 0.5 cm thick and 2 inches long. Place in a mixing bowl. Wash the pork liver and cut to the same size as the pork loin. Add to the same bowl.",
+    "Step 2: Pound white pepper, coriander roots, garlic, and salt into a fine paste. Add to the bowl with pork and liver. Mix well.",
+    "Step 3: Add oyster sauce and seasoning sauce. Mix thoroughly. Marinate for about 1 hour.",
+    "Step 4: Skewer the pork and pork liver separately onto skewers.",
+    "Step 5: Grill over charcoal on low heat until cooked through. Serve hot."
+  ],
+  "instructions_zh": [
+    "步骤1：将猪里脊肉洗净，切成约0.5厘米厚、2英寸长的长方块，放入碗中。将猪肝洗净，切成与猪肉同样大小，放入同一碗中。",
+    "步骤2：将白胡椒粒、香菜根、大蒜和盐捣成细腻的酱料，加入猪肉和猪肝中搅拌均匀。",
+    "步骤3：加入蚝油和调味酱油，充分搅拌，腌制约1小时。",
+    "步骤4：分别将猪肉和猪肝穿入竹签中。",
+    "步骤5：用小火炭烤至熟透，趁热食用。"
+  ],
+  "nutrition": [
+    "Calories: 300 kcal per 100g",
+    "Fat: 18g",
+    "Protein: 28g",
+    "Carbohydrates: 2g",
+    "Sugar: 1g",
+    "Sodium: 900mg"
+  ],
+  "dietary_tags": [
+    "Contains Pork",
+    "Contains Pork Liver",
+    "Grilled",
+    "Gluten Free",
+    "Traditional Northern Thai Dish"
+  ],
+  "suitable_for": [
+    "General Public",
+    "Tourists",
+    "Pork Eaters",
+    "Street Food Lovers",
+    "Northern Thai Food Lovers",
+    "Not Suitable for Vegetarians"
+  ],
+  "region": "northern",
+  "category": "grilled dish",
+  "spicy_level": "(1) Mild",
+  "image_main_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northern%2F09-Jin-Ping-main.png?alt=media",
+  "image_detail_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northern%2F09-Jin-Ping-thumb.png?alt=media",
+  "tags": "jin ping, northern thai grilled pork, grilled pork liver skewers, northern grilled dish, northern",
+  "recommend": "yes",
+  "available_season": "all year"
+},
+{
+  "no": 10,
+  "dish_en_th": "Gaeng Hang Lay (แกงฮังเล)",
+  "dish_en": "Gaeng Hang Lay (Northern Thai Burmese-Style Pork Belly Curry)",
+  "dish_th": "แกงฮังเล",
+  "dish_zh": "泰北缅式咖喱焖猪肉 (Gaeng Hang Lay)",
+  "pronunciation": "gaeng hang lay",
+  "description_en": "Gaeng Hang Lay is a famous Northern Thai curry influenced by Burmese cuisine. It features rich flavors from pork belly slow-cooked with Hang Lay curry paste, tamarind juice, ginger, garlic, and palm sugar. The curry is thick, savory, and slightly sweet.",
+  "description_zh": "泰北缅式咖喱焖猪肉是一道受缅甸菜影响的泰北名菜，采用五花肉与特制咖喱酱、罗望子汁、姜蒜、棕榈糖慢炖而成，汤汁浓郁，咸甜适口。",
+  "ingredients_en": [
+    "Pork belly 600 grams",
+    "Hang Lay curry paste 3 tablespoons",
+    "Tamarind juice 3 tablespoons",
+    "Soy sauce 2 tablespoons",
+    "Palm sugar 2 tablespoons",
+    "Water 2 cups",
+    "Sliced ginger 2 tablespoons",
+    "Sliced garlic 2 tablespoons",
+    "Pickled garlic (optional) 2 tablespoons"
+  ],
+  "ingredients_zh": [
+    "五花肉 600 克",
+    "哈蒙咖喱酱（Hang Lay 咖喱酱）3 汤匙",
+    "罗望子汁 3 汤匙",
+    "酱油 2 汤匙",
+    "棕榈糖 2 汤匙",
+    "清水 2 杯",
+    "姜片 2 汤匙",
+    "蒜片 2 汤匙",
+    "腌蒜（可选）2 汤匙"
+  ],
+  "instructions_en": [
+    "Step 1: Stir-fry Hang Lay curry paste until fragrant.",
+    "Step 2: Add pork and stir until well combined.",
+    "Step 3: Add water and simmer until the pork is tender.",
+    "Step 4: Season with tamarind juice, soy sauce, and palm sugar.",
+    "Step 5: Add sliced ginger and garlic, simmer until sauce thickens."
+  ],
+  "instructions_zh": [
+    "步骤1：炒香哈蒙咖喱酱（Hang Lay 咖喱酱）。",
+    "步骤2：加入猪肉翻炒均匀。",
+    "步骤3：加入清水，小火炖煮至猪肉酥烂。",
+    "步骤4：调入罗望子汁、酱油和棕榈糖，调味。",
+    "步骤5：加入姜片和蒜片，继续炖煮至汤汁浓稠。"
+  ],
+  "nutrition": [
+    "Calories: 600 kcal",
+    "Fat: 40g",
+    "Protein: 25g",
+    "Carbohydrates: 18g",
+    "Sugar: 7g",
+    "Sodium: 950mg"
+  ],
+  "dietary_tags": [
+    "High Fat",
+    "High Protein",
+    "Contains Pork",
+    "Spicy",
+    "Contains Gluten"
+  ],
+  "suitable_for": [
+    "General Public",
+    "Tourists",
+    "Spicy Food Lovers",
+    "Not Suitable for Vegetarians",
+    "Not Suitable for Halal"
+  ],
+  "region": "northern",
+  "category": "curry dish",
+  "spicy_level": "(3) Medium Spicy",
+  "image_main_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northern%2F10-Gaeng-Hang-Lay-main.png?alt=media",
+  "image_detail_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northern%2F10-Gaeng-Hang-Lay-thumb.png?alt=media",
+  "tags": "gaeng hang lay, northern thai curry, burmese style pork curry, pork belly curry, northern",
+  "recommend": "yes",
+  "available_season": "all year"
+},
+{
+  "no": 11,
+  "dish_en_th": "Gaeng Ho (แกงโฮะ)",
+  "dish_en": "Gaeng Ho (Northern Thai Mixed Curry Stir-Fry)",
+  "dish_th": "แกงโฮะ",
+  "dish_zh": "泰北杂烩干咖喱 (Gaeng Ho)",
+  "pronunciation": "gaeng ho",
+  "description_en": "Gaeng Ho is a flavorful Northern Thai stir-fried mixed curry, traditionally made with leftover Hang Lay curry combined with glass noodles, vegetables, pickled bamboo shoots, and herbs. It is a creative and aromatic dish enjoyed with steamed rice.",
+  "description_zh": "泰北杂烩干咖喱是一道充满风味的泰北炒咖喱，通常用剩余的哈蒙咖喱搭配粉丝、蔬菜、腌竹笋和香料炒制而成，香气浓郁，常搭配米饭食用。",
+  "ingredients_en": [
+    "Glass noodles (soaked) 100 grams",
+    "Pickled bamboo shoots 50 grams",
+    "Yardlong beans 20 grams",
+    "Pea eggplants 20 grams",
+    "Thai eggplants 20 grams",
+    "Ivy gourd leaves (Tumbling leaves) 10 grams",
+    "Bird's eye chilies 5",
+    "Sliced lemongrass 1 stalk",
+    "Kaffir lime leaves 5 leaves",
+    "Chopped spring onions 1 tablespoon",
+    "Chopped coriander 1 tablespoon",
+    "Vegetable oil 2 tablespoons",
+    "Coconut milk 2 tablespoons",
+    "Hang Lay curry (leftover) 150 grams",
+    "Hang Lay curry powder 1/2 teaspoon"
+  ],
+  "ingredients_zh": [
+    "泡软粉丝 100 克",
+    "腌竹笋 50 克",
+    "长豆 20 克",
+    "豌豆茄 20 克",
+    "泰国圆茄 20 克",
+    "藤菜叶 10 克",
+    "小米椒 5 个",
+    "香茅切片 1 根",
+    "青柠叶 5 片",
+    "葱花 1 汤匙",
+    "香菜末 1 汤匙",
+    "植物油 2 汤匙",
+    "椰奶 2 汤匙",
+    "剩余哈蒙咖喱（Hang Lay）150 克",
+    "哈蒙咖喱粉 1/2 茶匙"
+  ],
+  "instructions_en": [
+    "Step 1: Pound curry paste ingredients until smooth. Soak glass noodles until soft and cut into sections.",
+    "Step 2: Stir-fry curry paste with oil until fragrant. Add chicken (optional) and stir. Add hard vegetables and pickled bamboo shoots. Stir well.",
+    "Step 3: Add a little water and glass noodles. Stir-fry to combine.",
+    "Step 4: Add Hang Lay curry powder and Hang Lay curry. Stir well.",
+    "Step 5: Add coconut milk, then add quick-cooking vegetables. Stir until cooked. Remove from heat."
+  ],
+  "instructions_zh": [
+    "步骤1：将咖喱酱材料捣碎，粉丝泡软后剪段备用。",
+    "步骤2：用油炒香咖喱酱，加入鸡肉（可选）翻炒，加入耐煮蔬菜和腌竹笋，翻炒均匀。",
+    "步骤3：加入少量清水和粉丝，翻炒混合。",
+    "步骤4：加入哈蒙咖喱粉和哈蒙咖喱，翻炒均匀。",
+    "步骤5：加入椰奶，再加入易熟蔬菜，翻炒至熟，关火即可。"
+  ],
+  "nutrition": [
+    "Calories: 450 kcal",
+    "Fat: 25g",
+    "Protein: 18g",
+    "Carbohydrates: 28g",
+    "Sugar: 5g",
+    "Sodium: 850mg"
+  ],
+  "dietary_tags": [
+    "Contains Pork",
+    "Contains Herbs",
+    "Contains Pickled Vegetables",
+    "Contains Noodles",
+    "Spicy",
+    "Gluten Free"
+  ],
+  "suitable_for": [
+    "General Public",
+    "Tourists",
+    "Northern Thai Food Lovers",
+    "Leftover Curry Lovers",
+    "Not Suitable for Vegetarians"
+  ],
+  "region": "northern",
+  "category": "stir-fried dish",
+  "spicy_level": "(3) Medium Spicy",
+  "image_main_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northern%2F11-Gaeng-Ho-main.png?alt=media",
+  "image_detail_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northern%2F11-Gaeng-Ho-thumb.png?alt=media",
+  "tags": "gaeng ho, northern thai stir-fried curry, mixed curry stir-fry, leftover curry dish, northern",
+  "recommend": "yes",
+  "available_season": "all year"
+},
+{
+  "no": 12,
+  "dish_en_th": "Kanom Jeen Nam Ngiao (ขนมจีนน้ำเงี้ยว)",
+  "dish_en": "Kanom Jeen Nam Ngiao (Northern Thai Rice Noodles with Spicy Pork and Tomato Soup)",
+  "dish_th": "ขนมจีนน้ำเงี้ยว",
+  "dish_zh": "泰北番茄猪骨米粉汤 (Kanom Jeen Nam Ngiao)",
+  "pronunciation": "kanom jeen nam ngiao",
+  "description_en": "Kanom Jeen Nam Ngiao is a signature Northern Thai dish featuring fermented rice noodles served in a fragrant and spicy pork and tomato-based broth. It includes pork ribs, pork blood curd, and cotton flowers, creating a unique and complex flavor profile.",
+  "description_zh": "泰北番茄猪骨米粉汤是泰北特色名菜，采用发酵米粉，搭配香辣浓郁的番茄猪骨汤，内含猪骨、猪血豆腐和木棉花，风味独特，层次丰富。",
+  "ingredients_en": [
+    "Pork back bones 500 grams",
+    "Water 8 cups",
+    "Prepared curry paste 1/3 cup",
+    "Vegetable oil 3 tablespoons",
+    "Minced fatty pork 500 grams",
+    "Minced pork fat 50 grams",
+    "Dried red cotton flowers (soaked until soft) 6 flowers",
+    "Pork blood liquid 3 tablespoons",
+    "Chicken blood curd (cubed) 400 grams",
+    "Lightly crushed sour tomatoes 300 grams",
+    "Mashed fermented black soybeans 2 tablespoons",
+    "Sea salt 2 teaspoons",
+    "Sugar 1 teaspoon",
+    "Kanom Jeen (fermented rice noodles) or thin rice noodles",
+    "Chopped spring onions, chopped coriander, fried garlic for garnish",
+    "Bean sprouts, shredded pickled mustard greens, lime wedges, fried dried chilies as accompaniments"
+  ],
+  "ingredients_zh": [
+    "猪背骨 500 克",
+    "清水 8 杯",
+    "备好的咖喱酱 1/3 杯",
+    "植物油 3 汤匙",
+    "肥瘦猪肉末 500 克",
+    "猪油末 50 克",
+    "浸软的木棉花 6 朵",
+    "猪血液 3 汤匙",
+    "鸡血豆腐块 400 克",
+    "拍碎酸番茄 300 克",
+    "捣碎的黑豆酱 2 汤匙",
+    "海盐 2 茶匙",
+    "白糖 1 茶匙",
+    "泰式米线或细米粉",
+    "葱花、香菜末、炸蒜酥（装饰）",
+    "豆芽、酸菜丝、青柠角、炸干辣椒（配菜）"
+  ],
+  "instructions_en": [
+    "Step 1: Prepare curry paste by pounding dried chilies, bird's eye chilies, and salt until fine. Add lemongrass, coriander roots, garlic, shallots, and turmeric, pounding each until smooth. Then add fermented fish paste, fermented soybean disks, and shrimp paste. Mix thoroughly and set aside.",
+    "Step 2: Prepare the pork bone broth. Rinse pork bones and place in a pot with water. Bring to a boil over medium heat for about 15 minutes, skimming foam to clarify the broth. Reduce to low heat and simmer for 10 minutes. Remove pork bones and set aside.",
+    "Step 3: In a separate pan, heat oil over medium heat. Stir-fry the curry paste until fragrant. Add minced pork and pork fat. Cook until fully cooked. Remove from heat and set aside.",
+    "Step 4: Bring the pork bone broth back to medium heat. Add the stir-fried pork mixture to the broth. Add soaked cotton flowers and pork blood liquid. When boiling again, reduce to low heat. Add chicken blood curd and sour tomatoes. Simmer for about 20 minutes until tomatoes are tender.",
+    "Step 5: Add fermented black soybeans. Season with salt and sugar. Adjust to taste (slightly sour and salty). Turn off heat.",
+    "Step 6: To serve, arrange rice noodles in a bowl. Ladle the Nam Ngiao soup over the noodles. Garnish with spring onions, coriander, and fried garlic. Serve with bean sprouts, pickled mustard greens, lime wedges, and fried dried chilies."
+  ],
+  "instructions_zh": [
+    "步骤1：制作咖喱酱，先将干辣椒、小米椒和盐捣碎，加入香茅、香菜根、大蒜、红葱头和姜黄逐一捣碎，最后加入发酵鱼酱、豆豉饼和虾酱，搅拌均匀备用。",
+    "步骤2：煮猪骨汤，将猪背骨洗净，放入锅中加水，中火煮沸约15分钟，撇去浮沫，改小火再煮10分钟。捞出猪骨备用。",
+    "步骤3：另起锅中火加热油，炒香咖喱酱，加入猪肉末和猪油末，炒至熟透，盛出备用。",
+    "步骤4：将猪骨汤重新煮沸，加入炒好的肉末和咖喱酱，放入浸软的木棉花和猪血液，煮沸后转小火，加入鸡血豆腐和酸番茄，煮约20分钟至番茄软烂。",
+    "步骤5：加入捣碎的黑豆酱，用盐和糖调味，调整至酸咸适中，关火。",
+    "步骤6：食用时，将米线或细米粉放入碗中，舀入汤料，撒上葱花、香菜和炸蒜酥，搭配豆芽、酸菜丝、青柠角和炸干辣椒一起享用。"
+  ],
+  "nutrition": [
+    "Calories: 480 kcal",
+    "Fat: 18g",
+    "Protein: 24g",
+    "Carbohydrates: 40g",
+    "Sugar: 5g",
+    "Sodium: 750mg"
+  ],
+  "dietary_tags": [
+    "Contains Pork",
+    "Contains Pork Blood",
+    "Contains Chicken Blood",
+    "Contains Fermented Ingredients",
+    "Spicy",
+    "Traditional Northern Thai Dish"
+  ],
+  "suitable_for": [
+    "General Public",
+    "Tourists",
+    "Pork Eaters",
+    "Spicy Food Lovers",
+    "Northern Thai Food Lovers",
+    "Not Suitable for Vegetarians"
+  ],
+  "region": "northern",
+  "category": "noodle soup",
+  "spicy_level": "(3) Medium Spicy",
+  "image_main_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northern%2F12-Kanom-Jeen-Nam-Ngiao-main.png?alt=media",
+  "image_detail_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northern%2F12-Kanom-Jeen-Nam-Ngiao-thumb.png?alt=media",
+  "tags": "kanom jeen nam ngiao, northern thai noodle soup, spicy pork tomato soup, northern noodles, northern",
+  "recommend": "yes",
+  "available_season": "all year"
+},
+{
+  "no": 13,
+  "dish_en_th": "Tom Saep Nuea (ต้มแซ่บเหนือ)",
+  "dish_en": "Tom Saep Nuea (Northern Thai Spicy and Sour Pork Soft Bone Soup)",
+  "dish_th": "ต้มแซ่บเหนือ (ต้มแซ่บกระดูกอ่อน)",
+  "dish_zh": "泰北酸辣猪软骨汤 (Tom Saep Nuea)",
+  "pronunciation": "tom saep nuea",
+  "description_en": "Tom Saep Nuea is a flavorful Northern Thai spicy and sour soup made with pork soft bones, herbs, and aromatic spices. The clear broth is enriched with lemongrass, galangal, kaffir lime leaves, and tamarind, providing a tangy and refreshing taste.",
+  "description_zh": "泰北酸辣猪软骨汤是一道风味十足的泰北酸辣汤，采用猪软骨、香草和香料熬制，清爽的汤底融合了香茅、南姜、青柠叶和罗望子的酸香，口感清新开胃。",
+  "ingredients_en": [
+    "Pork soft bones 1 kilogram",
+    "Shallots 10",
+    "Lemongrass 5 stalks",
+    "Sliced young galangal 5 pieces",
+    "Torn kaffir lime leaves 5 leaves",
+    "Coriander roots 5 roots",
+    "Tamarind pulp 1 pod",
+    "Fresh chilies 10",
+    "Fried dried chilies 8",
+    "Chili powder 1 tablespoon",
+    "Roasted rice powder 1 tablespoon",
+    "Chopped spring onions and coriander 1 cup",
+    "Sawtooth coriander (Pak Chi Farang) 1 cup",
+    "Fish sauce 1.5 ladles",
+    "Lime juice 1 ladle",
+    "Water 1.5 liters"
+  ],
+  "ingredients_zh": [
+    "猪软骨 1 公斤",
+    "红葱头 10 个",
+    "香茅 5 根",
+    "嫩南姜切片 5 片",
+    "撕碎的青柠叶 5 片",
+    "香菜根 5 根",
+    "罗望子果肉 1 个",
+    "新鲜辣椒 10 个",
+    "炸干辣椒 8 个",
+    "辣椒粉 1 汤匙",
+    "烤米粉 1 汤匙",
+    "葱花和香菜末 1 杯",
+    "刺芫荽（Pak Chi Farang）1 杯",
+    "鱼露 1.5 勺",
+    "青柠汁 1 勺",
+    "清水 1.5 升"
+  ],
+  "instructions_en": [
+    "Step 1: Bring water to a boil in a pot. Add tamarind pulp, coriander roots, half of the galangal, half of the lemongrass, shallots, half of the kaffir lime leaves, and fresh chilies. Simmer for a while.",
+    "Step 2: Add pork soft bones. Simmer over medium heat for 30–40 minutes. Skim off any scum to keep the broth clear.",
+    "Step 3: After simmering, remove the tamarind pulp. Add the remaining lemongrass and kaffir lime leaves.",
+    "Step 4: Turn off the heat and season with fish sauce, roasted rice powder, chili powder, chopped spring onions, coriander, sawtooth coriander, fried dried chilies, and finish with lime juice.",
+    "Step 5: Adjust seasoning to taste and serve hot."
+  ],
+  "instructions_zh": [
+    "步骤1：锅中加水煮沸，加入罗望子果肉、香菜根、一半的南姜、一半的香茅、红葱头、一半的青柠叶和新鲜辣椒，煮一会儿。",
+    "步骤2：加入猪软骨，中火炖煮30-40分钟，撇去浮沫，使汤清澈。",
+    "步骤3：煮好后捞出罗望子果肉，加入剩余的香茅和青柠叶。",
+    "步骤4：关火后调味，加入鱼露、烤米粉、辣椒粉、葱花、香菜末、刺芫荽、炸干辣椒，最后淋上青柠汁。",
+    "步骤5：根据口味调整调料，趁热食用。"
+  ],
+  "nutrition": [
+    "Calories: 350 kcal",
+    "Fat: 20g",
+    "Protein: 25g",
+    "Carbohydrates: 5g",
+    "Sugar: 2g",
+    "Sodium: 1000mg"
+  ],
+  "dietary_tags": [
+    "Contains Pork",
+    "Spicy",
+    "Sour",
+    "Contains Herbs",
+    "Gluten Free",
+    "Traditional Northern Thai Dish"
+  ],
+  "suitable_for": [
+    "General Public",
+    "Tourists",
+    "Pork Eaters",
+    "Spicy Food Lovers",
+    "Soup Lovers",
+    "Northern Thai Food Lovers",
+    "Not Suitable for Vegetarians"
+  ],
+  "region": "northern",
+  "category": "soup",
+  "spicy_level": "(4) Hot Spicy",
+  "image_main_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northern%2F13-Tom-Saep-Nuea-main.png?alt=media",
+  "image_detail_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northern%2F13-Tom-Saep-Nuea-thumb.png?alt=media",
+  "tags": "tom saep nuea, northern thai spicy soup, pork soft bone soup, spicy sour soup, northern",
+  "recommend": "yes",
+  "available_season": "all year"
+},
+{
+  "no": 14,
+  "dish_en_th": "Kai Pam (ไข่ป่าม)",
+  "dish_en": "Kai Pam (Northern Thai Grilled Egg in Banana Leaf Cup)",
+  "dish_th": "ไข่ป่าม",
+  "dish_zh": "泰北香蕉叶烤蛋 (Kai Pam)",
+  "pronunciation": "kai pam",
+  "description_en": "Kai Pam is a traditional Northern Thai grilled egg dish, where eggs are mixed with minced pork and seasonings, then poured into banana leaf cups and grilled until fragrant. It is a simple yet flavorful street food snack.",
+  "description_zh": "泰北香蕉叶烤蛋是一道传统的泰北小吃，将鸡蛋与猪肉末和调料混合，倒入香蕉叶杯中烤制，香气浓郁，风味独特，常见于街头小吃。",
+  "ingredients_en": [
+    "Eggs 2",
+    "Blanched minced pork loin 30 grams",
+    "Salt 1/4 teaspoon",
+    "Chopped spring onion 1 stalk",
+    "Banana leaf cup for grilling"
+  ],
+  "ingredients_zh": [
+    "鸡蛋 2 个",
+    "焯水猪里脊肉末 30 克",
+    "盐 1/4 茶匙",
+    "葱花 1 根",
+    "香蕉叶杯（用于烤制）"
+  ],
+  "instructions_en": [
+    "Step 1: Prepare the egg mixture. Crack eggs into a mixing bowl. Season with salt and add blanched minced pork. Mix well.",
+    "Step 2: Pour the egg mixture into banana leaf cups. Sprinkle with chopped spring onions.",
+    "Step 3: Grill. Place the banana leaf cups on a pan or grill. Use a larger banana leaf underneath to prevent burning.",
+    "Step 4: Check for doneness by inserting a toothpick into the egg. If it comes out clean, the egg is cooked.",
+    "Step 5: Once cooked, transfer the Kai Pam to a serving plate. Ready to enjoy!"
+  ],
+  "instructions_zh": [
+    "步骤1：准备蛋液。将鸡蛋打入碗中，加入盐和焯水猪肉末，搅拌均匀。",
+    "步骤2：将蛋液倒入香蕉叶杯中，撒上葱花。",
+    "步骤3：烤制。将香蕉叶杯放在平底锅或烤架上，底部可加一层大叶防止烤焦。",
+    "步骤4：用牙签插入蛋液中检查熟度，若牙签干净即可。",
+    "步骤5：蛋熟后取出，装盘即可享用。"
+  ],
+  "nutrition": [
+    "Calories: 250 kcal",
+    "Fat: 18g",
+    "Protein: 18g",
+    "Carbohydrates: 2g",
+    "Sugar: 1g",
+    "Sodium: 500mg"
+  ],
+  "dietary_tags": [
+    "Contains Eggs",
+    "Contains Pork",
+    "Gluten Free",
+    "Low Carb",
+    "Traditional Northern Thai Dish",
+    "Grilled"
+  ],
+  "suitable_for": [
+    "General Public",
+    "Tourists",
+    "Egg Lovers",
+    "Pork Eaters",
+    "Northern Thai Food Lovers",
+    "Not Suitable for Vegetarians"
+  ],
+  "region": "northern",
+  "category": "grilled dish",
+  "spicy_level": "(0) Not Spicy",
+  "image_main_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northern%2F14-Kai-Pam-main.png?alt=media",
+  "image_detail_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northern%2F14-Kai-Pam-thumb.png?alt=media",
+  "tags": "kai pam, northern thai grilled egg, grilled egg banana leaf, northern snack, northern",
+  "recommend": "yes",
+  "available_season": "all year"
+},
+{
+  "no": 15,
+  "dish_en_th": "Moo Tod Chiang Mai (หมูทอดเชียงใหม่)",
+  "dish_en": "Moo Tod Chiang Mai (Chiang Mai Style Fried Pork)",
+  "dish_th": "หมูทอดเชียงใหม่",
+  "dish_zh": "清迈风味炸猪肉 (Moo Tod Chiang Mai)",
+  "pronunciation": "moo tod chiang mai",
+  "description_en": "Moo Tod Chiang Mai is a Northern Thai-style fried pork dish featuring marinated pork neck seasoned with aromatic spices, garlic, and coriander roots, then deep-fried or air-fried to perfection. It is often served with sticky rice.",
+  "description_zh": "清迈风味炸猪肉是一道泰北风味炸猪肉，采用腌制入味的猪颈肉，配以香料、蒜末和香菜根调味，炸至金黄酥脆，常搭配糯米饭享用。",
+  "ingredients_en": [
+    "Pork neck (pork shoulder collar) 400 grams",
+    "Coriander seeds 1/2 tablespoon",
+    "Cumin seeds 1/2 tablespoon",
+    "Sugar 1 teaspoon",
+    "Ground white pepper 1 teaspoon",
+    "Light soy sauce 2 tablespoons",
+    "Pounded garlic 1 cup",
+    "Pounded coriander roots 3 roots",
+    "Crispy frying flour 3 tablespoons"
+  ],
+  "ingredients_zh": [
+    "猪颈肉（猪肩胛肉）400 克",
+    "香菜籽 1/2 汤匙",
+    "孜然籽 1/2 汤匙",
+    "白糖 1 茶匙",
+    "白胡椒粉 1 茶匙",
+    "生抽 2 汤匙",
+    "捣碎蒜末 1 杯",
+    "捣碎香菜根 3 根",
+    "脆炸粉 3 汤匙"
+  ],
+  "instructions_en": [
+    "Step 1: Prepare the pork. Cut pork neck into bite-sized pieces.",
+    "Step 2: In a mixing bowl, combine coriander seeds, cumin seeds, sugar, ground white pepper, light soy sauce, pounded garlic, pounded coriander roots, and crispy frying flour. Mix well with the pork.",
+    "Step 3: Marinate the pork for 15 minutes to allow the flavors to absorb.",
+    "Step 4: Place the marinated pork into an air fryer. Set temperature to 180°C.",
+    "Step 5: Cook for 16 minutes until golden and crispy.",
+    "Step 6: Slice into bite-sized pieces and serve hot with sticky rice."
+  ],
+  "instructions_zh": [
+    "步骤1：准备猪肉。将猪颈肉切成适口大小。",
+    "步骤2：在碗中加入香菜籽、孜然籽、白糖、白胡椒粉、生抽、捣碎的蒜末、捣碎的香菜根和脆炸粉，搅拌均匀，与猪肉混合。",
+    "步骤3：腌制猪肉15分钟，使其入味。",
+    "步骤4：将腌好的猪肉放入空气炸锅，设置温度180摄氏度。",
+    "步骤5：炸16分钟至金黄酥脆。",
+    "步骤6：切块装盘，搭配糯米饭一起食用。"
+  ],
+  "nutrition": [
+    "Calories: 450 kcal",
+    "Fat: 28g",
+    "Protein: 25g",
+    "Carbohydrates: 10g",
+    "Sugar: 2g",
+    "Sodium: 900mg"
+  ],
+  "dietary_tags": [
+    "Contains Pork",
+    "Contains Garlic",
+    "Fried",
+    "Gluten Containing",
+    "Traditional Northern Thai Dish"
+  ],
+  "suitable_for": [
+    "General Public",
+    "Tourists",
+    "Pork Eaters",
+    "Street Food Lovers",
+    "Northern Thai Food Lovers",
+    "Not Suitable for Vegetarians"
+  ],
+  "region": "northern",
+  "category": "fried dish",
+  "spicy_level": "(0) Not Spicy",
+  "image_main_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northern%2F15-Moo-Tod-Chiang-Mai-main.png?alt=media",
+  "image_detail_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northern%2F15-Moo-Tod-Chiang-Mai-thumb.png?alt=media",
+  "tags": "moo tod chiang mai, northern thai fried pork, pork neck fried, fried pork, northern",
+  "recommend": "yes",
+  "available_season": "all year"
+},
+{
+  "no": 16,
+  "dish_en_th": "Khao Lam (ข้าวหลาม)",
+  "dish_en": "Khao Lam (Thai Sticky Rice Roasted in Bamboo)",
+  "dish_th": "ข้าวหลาม",
+  "dish_zh": "泰式竹筒糯米饭 (Khao Lam)",
+  "pronunciation": "khao lam",
+  "description_en": "Khao Lam is a traditional Thai dessert where sticky rice is mixed with coconut milk, sugar, and black beans, then packed into bamboo tubes and roasted over charcoal. The result is aromatic and naturally sweet sticky rice with a hint of smokiness.",
+  "description_zh": "泰式竹筒糯米饭是一道传统甜品，将糯米与椰奶、糖和黑豆混合，装入竹筒中烤制，散发出独特竹香和微微焦香，甜而不腻，风味迷人。",
+  "ingredients_en": [
+    "Sticky rice 1.5 liters",
+    "Sugar 400 grams",
+    "Coconut milk 3 cups",
+    "Boiled black beans 2 cups",
+    "Salt 2 tablespoons",
+    "Pandan leaves 12 leaves",
+    "Bamboo tubes (for Khao Lam) 12 tubes",
+    "Coconut husk pieces 12 pieces"
+  ],
+  "ingredients_zh": [
+    "糯米 1.5 升",
+    "白糖 400 克",
+    "椰奶 3 杯",
+    "煮熟黑豆 2 杯",
+    "盐 2 汤匙",
+    "香兰叶 12 片",
+    "竹筒（制作竹筒饭用）12 根",
+    "椰壳片 12 片"
+  ],
+  "instructions_en": [
+    "Step 1: Cut bamboo tubes about 12 inches long. Clean the outer surface and place upside down to dry.",
+    "Step 2: Mix coconut milk, sugar, and salt. Stir until the sugar dissolves.",
+    "Step 3: Rinse sticky rice thoroughly until water runs clear. Drain well. Mix with boiled black beans.",
+    "Step 4: Fill bamboo tubes with the sticky rice and black bean mixture, adding one handful at a time and gently tapping to settle. Leave about 2 inches of space at the top.",
+    "Step 5: Slowly pour the coconut milk mixture into each bamboo tube until it covers the rice.",
+    "Step 6: Fold pandan leaves into a square to cover the opening. Cover again with a rolled coconut husk. Let rest for 5–6 hours.",
+    "Step 7: Roast the Khao Lam over charcoal. Rotate the bamboo tubes regularly. Roast for about 30–45 minutes until the bamboo turns evenly yellow, indicating doneness.",
+    "Step 8: Let cool slightly. Peel off the outer bamboo layer, trimming it thin to make it easier to peel when serving."
+  ],
+  "instructions_zh": [
+    "步骤1：将竹筒切成约12英寸长，清洗外表，倒置晾干。",
+    "步骤2：将椰奶、白糖和盐混合，搅拌至糖溶解。",
+    "步骤3：将糯米洗净至水清，沥干水分，加入煮熟的黑豆拌匀。",
+    "步骤4：将糯米黑豆混合物一把一把装入竹筒中，轻轻敲打至米饭下沉，顶部留出约2英寸空间。",
+    "步骤5：慢慢将调好的椰奶倒入竹筒，直到覆盖米饭。",
+    "步骤6：用折好的香兰叶盖住开口，再用卷起的椰壳片封口，静置5–6小时。",
+    "步骤7：将竹筒饭置于炭火上烤制，定期旋转竹筒，约烤30–45分钟，竹筒呈均匀黄色即熟。",
+    "步骤8：稍微冷却后剥去竹筒外壳，削薄方便食用。"
+  ],
+  "nutrition": [
+    "Calories: 320 kcal",
+    "Fat: 10g",
+    "Protein: 6g",
+    "Carbohydrates: 50g",
+    "Sugar: 18g",
+    "Sodium: 400mg"
+  ],
+  "dietary_tags": [
+    "Contains Coconut Milk",
+    "Contains Beans",
+    "Gluten Free",
+    "Vegetarian",
+    "Traditional Thai Dessert",
+    "Roasted"
+  ],
+  "suitable_for": [
+    "General Public",
+    "Tourists",
+    "Vegetarians",
+    "Sweet Food Lovers",
+    "Thai Dessert Lovers",
+    "Not Suitable for Vegans (if strict about sugar processing)"
+  ],
+  "region": "northern",
+  "category": "dessert",
+  "spicy_level": "(0) Not Spicy",
+  "image_main_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northern%2F16-Khao-Lam-main.png?alt=media",
+  "image_detail_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northern%2F16-Khao-Lam-thumb.png?alt=media",
+  "tags": "khao lam, northern thai dessert, sticky rice bamboo, thai bamboo sticky rice, northern",
+  "recommend": "yes",
+  "available_season": "all year"
+},
+{
+  "no": 17,
+  "dish_en_th": "Gaeng Khanun (แกงขนุน)",
+  "dish_en": "Gaeng Khanun (Young Jackfruit Curry)",
+  "dish_th": "แกงขนุน",
+  "dish_zh": "泰北嫩菠萝蜜咖喱 (Gaeng Khanun)",
+  "pronunciation": "gaeng kha-nun",
+  "description_en": "Gaeng Khanun is a traditional Northern Thai curry featuring young jackfruit simmered in a flavorful herbal broth with minced pork ribs, tomatoes, Cha-Om, and Cha-Plu leaves. It is light, aromatic, and perfect with steamed rice.",
+  "description_zh": "泰北嫩菠萝蜜咖喱是一道传统的泰北风味咖喱，以嫩菠萝蜜、剁碎猪肋骨、小番茄、刺臭叶和野胡椒叶煮成，汤头清香，搭配米饭风味极佳。",
+  "ingredients_en": [
+    "Young jackfruit 300 grams",
+    "Minced pork ribs 100 grams",
+    "Small tomatoes 5",
+    "Acacia leaves (Cha-Om) 1/2 cup",
+    "Chopped betel leaves (Cha-Plu) 1/2 cup"
+  ],
+  "ingredients_zh": [
+    "嫩菠萝蜜 300 克",
+    "剁碎猪肋骨 100 克",
+    "小番茄 5 个",
+    "刺臭叶（Cha-Om）1/2 杯",
+    "粗切野胡椒叶（Cha-Plu）1/2 杯"
+  ],
+  "instructions_en": [
+    "Step 1: Pound curry paste ingredients until smooth.",
+    "Step 2: Boil water, then dissolve the curry paste into the boiling water.",
+    "Step 3: Add minced pork ribs and cook until tender.",
+    "Step 4: Add young jackfruit and cook until softened.",
+    "Step 5: Add tomatoes, Cha-Om, and Cha-Plu leaves. Stir well. Once the vegetables are cooked, turn off the heat."
+  ],
+  "instructions_zh": [
+    "步骤1：将咖喱酱材料捣碎成细腻状。",
+    "步骤2：煮沸清水，将咖喱酱溶入沸水中。",
+    "步骤3：加入剁碎的猪肋骨，煮至软嫩。",
+    "步骤4：加入嫩菠萝蜜，煮至变软。",
+    "步骤5：加入小番茄、刺臭叶和野胡椒叶，搅拌均匀，蔬菜煮熟后关火。"
+  ],
+  "nutrition": [
+    "Calories: 180 kcal",
+    "Fat: 8g",
+    "Protein: 15g",
+    "Carbohydrates: 12g",
+    "Sugar: 4g",
+    "Sodium: 600mg"
+  ],
+  "dietary_tags": [
+    "Contains Pork",
+    "Contains Herbs",
+    "Gluten Free",
+    "Low Carb",
+    "Traditional Northern Thai Dish"
+  ],
+  "suitable_for": [
+    "General Public",
+    "Tourists",
+    "Pork Eaters",
+    "Northern Thai Food Lovers",
+    "Not Suitable for Vegetarians"
+  ],
+  "region": "northern",
+  "category": "curry soup",
+  "spicy_level": "(1) Mild Spicy",
+  "image_main_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northern%2F17-Gaeng-Khanun-main.png?alt=media",
+  "image_detail_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northern%2F17-Gaeng-Khanun-thumb.png?alt=media",
+  "tags": "gaeng khanun, young jackfruit curry, northern thai curry, jackfruit soup, northern",
+  "recommend": "yes",
+  "available_season": "all year"
+},
+{
+  "no": 18,
+  "dish_en_th": "Khao Niew Gai Tod (ข้าวเหนียวไก่ทอด)",
+  "dish_en": "Khao Niew Gai Tod (Fried Chicken with Sticky Rice)",
+  "dish_th": "ข้าวเหนียวไก่ทอด",
+  "dish_zh": "泰式炸鸡配糯米饭 (Khao Niew Gai Tod)",
+  "pronunciation": "khao niew gai tod",
+  "description_en": "Khao Niew Gai Tod is a beloved Northern Thai street food dish featuring crispy fried chicken served with fragrant steamed sticky rice. The chicken is marinated with traditional Thai herbs and coated in a light batter, making it crispy on the outside and juicy inside.",
+  "description_zh": "泰北街头最受欢迎的小吃之一，香脆可口的炸鸡搭配香糯软糯的蒸糯米饭，鸡肉用泰式香草腌制，外酥里嫩，风味十足。",
+  "ingredients_en": [
+    "Thai glutinous rice (10% Thai Ruang Khwan) 500 grams",
+    "Chicken wings 3–4 pieces",
+    "Chicken drumsticks 3–4 pieces",
+    "Pounded coriander roots, garlic, and white pepper (Sam Kler) 2 tablespoons",
+    "Seasoning sauce 2 tablespoons",
+    "Salt 1/2 teaspoon",
+    "Crispy frying flour 1 cup",
+    "Cold water 1/2 cup",
+    "Fried shallots for garnish"
+  ],
+  "ingredients_zh": [
+    "泰国糯米（10% 泰国稻香品种）500 克",
+    "鸡翅 3–4 只",
+    "鸡腿 3–4 只",
+    "捣碎香菜根、大蒜和白胡椒（泰式三宝）2 汤匙",
+    "调味酱油 2 汤匙",
+    "盐 1/2 茶匙",
+    "脆炸粉 1 杯",
+    "冷水 1/2 杯",
+    "炸洋葱酥（装饰用）"
+  ],
+  "instructions_en": [
+    "Step 1: Prepare sticky rice. Rinse the glutinous rice 1–2 times until the water runs clear. Soak for 4 hours.",
+    "Step 2: Steam the sticky rice using a moistened bamboo steamer basket over boiling water. Cover and steam for 10 minutes. Flip the rice and steam for another 5 minutes.",
+    "Step 3: Marinate chicken. In a mixing bowl, combine chicken wings and drumsticks with pounded coriander root, garlic, white pepper, seasoning sauce, and salt. Mix well and marinate.",
+    "Step 4: Prepare batter. Mix crispy frying flour with cold water to make a batter.",
+    "Step 5: Coat marinated chicken pieces with batter.",
+    "Step 6: Deep-fry chicken pieces in hot oil until golden and cooked through.",
+    "Step 7: Serve the fried chicken with steamed sticky rice. Garnish with fried shallots."
+  ],
+  "instructions_zh": [
+    "步骤1：准备糯米。将糯米洗净1–2次至水清澈，浸泡4小时。",
+    "步骤2：用湿润的竹蒸笼将糯米放在沸水锅上蒸，盖盖蒸10分钟。翻面后再蒸5分钟。",
+    "步骤3：腌制鸡肉。将鸡翅和鸡腿与捣碎的香菜根、大蒜、白胡椒、调味酱油和盐拌匀，腌制入味。",
+    "步骤4：准备炸浆。将脆炸粉与冷水混合成糊状。",
+    "步骤5：将腌好的鸡肉裹上炸浆。",
+    "步骤6：放入热油中炸至金黄酥脆，熟透。",
+    "步骤7：搭配蒸糯米饭一起食用，撒上炸洋葱酥即可。"
+  ],
+  "nutrition": [
+    "Calories: 650 kcal",
+    "Fat: 35g",
+    "Protein: 30g",
+    "Carbohydrates: 55g",
+    "Sugar: 3g",
+    "Sodium: 800mg"
+  ],
+  "dietary_tags": [
+    "Contains Chicken",
+    "Contains Garlic",
+    "Contains Rice",
+    "Fried",
+    "Gluten Containing",
+    "Popular Thai Street Food"
+  ],
+  "suitable_for": [
+    "General Public",
+    "Tourists",
+    "Chicken Lovers",
+    "Street Food Lovers",
+    "Kids",
+    "Not Suitable for Vegetarians"
+  ],
+  "region": "northern",
+  "category": "fried dish",
+  "spicy_level": "(0) Not Spicy",
+  "image_main_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northern%2F18-Khao-Niew-Gai-Tod-main.png?alt=media",
+  "image_detail_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northern%2F18-Khao-Niew-Gai-Tod-thumb.png?alt=media",
+  "tags": "khao niew gai tod, fried chicken sticky rice, thai fried chicken, northern street food",
+  "recommend": "yes",
+  "available_season": "all year"
+},
+{
+  "no": 19,
+  "dish_en_th": "Het Thop Tom (เห็ดถอบต้ม)",
+  "dish_en": "Het Thop Tom (Boiled Earth Star Mushrooms Soup)",
+  "dish_th": "เห็ดถอบต้ม",
+  "dish_zh": "泰北煮土星菇汤 (Het Thop Tom)",
+  "pronunciation": "het thop tom",
+  "description_en": "Het Thop Tom is a simple and healthy Northern Thai soup made with seasonal earth star mushrooms (Het Thop), simmered with aromatic herbs like galangal and garlic. The dish is naturally light and pairs beautifully with a spicy chili-galangal dipping paste.",
+  "description_zh": "泰北传统健康汤品，以时令土星菇搭配南姜、大蒜等香料熬煮，口味清淡爽口，佐以南姜辣椒蘸酱，风味独特。",
+  "ingredients_en": [
+    "Earth star mushrooms (Het Thop), cleaned and halved",
+    "Galangal",
+    "Garlic",
+    "Dried chilies",
+    "Salt",
+    "Light soy sauce"
+  ],
+  "ingredients_zh": [
+    "土星菇（Het Thop），洗净并对半切",
+    "南姜",
+    "大蒜",
+    "干辣椒",
+    "盐",
+    "生抽"
+  ],
+  "instructions_en": [
+    "Step 1: Thoroughly clean earth star mushrooms to remove all dirt and sand. Halve each mushroom to allow even cooking.",
+    "Step 2: Prepare the broth by bringing water to a boil. Add light soy sauce for aroma and flavor.",
+    "Step 3: Season with a small amount of salt to enhance the broth’s flavor.",
+    "Step 4: Add the mushrooms and simmer until cooked through.",
+    "Step 5: While the mushrooms are cooking, prepare chili-galangal dipping paste by lightly roasting dried chilies, then pounding them together with galangal, garlic, and a pinch of salt.",
+    "Step 6: Serve the boiled mushrooms hot with the dipping paste."
+  ],
+  "instructions_zh": [
+    "步骤1：彻底清洗土星菇，去除泥沙，对半切开以便熟透。",
+    "步骤2：准备高汤，水煮沸后加入生抽调香调味。",
+    "步骤3：加入少许盐，提升汤的风味。",
+    "步骤4：放入菇煮至熟透。",
+    "步骤5：在煮菇期间，准备南姜辣椒蘸酱，先轻微烘烤干辣椒，然后与南姜、大蒜和少许盐一起捣成酱。",
+    "步骤6：煮好的菇搭配蘸酱趁热食用。"
+  ],
+  "nutrition": [
+    "Calories: 80 kcal",
+    "Fat: 2g",
+    "Protein: 5g",
+    "Carbohydrates: 10g",
+    "Sugar: 2g",
+    "Sodium: 500mg"
+  ],
+  "dietary_tags": [
+    "Vegetarian",
+    "Vegan",
+    "Gluten Free",
+    "Low Calorie",
+    "Contains Herbs",
+    "Traditional Northern Thai Dish",
+    "Soup"
+  ],
+  "suitable_for": [
+    "General Public",
+    "Vegetarians",
+    "Vegans",
+    "Health Conscious Eaters",
+    "Soup Lovers",
+    "Northern Thai Food Lovers"
+  ],
+  "region": "northern",
+  "category": "soup",
+  "spicy_level": "(1) Mildly Spicy (with dipping sauce)",
+  "image_main_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northern%2F19-Het-Thop-Tom-main.png?alt=media",
+  "image_detail_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northern%2F19-Het-Thop-Tom-thumb.png?alt=media",
+  "tags": "het thop tom, northern mushroom soup, earth star mushroom soup, northern thai soup",
+  "recommend": "yes",
+  "available_season": "rainy season (Het Thop season)"
+},
+{
+  "no": 20,
+  "dish_en_th": "Zor Phak Kat (จอผักกาด)",
+  "dish_en": "Zor Phak Kat (Northern Thai Pickled Mustard Greens Soup with Pork Ribs)",
+  "dish_th": "จอผักกาด",
+  "dish_zh": "泰北酸菜排骨汤 (Zor Phak Kat)",
+  "pronunciation": "zor phak kat",
+  "description_en": "Zor Phak Kat is a traditional Northern Thai soup made with pickled mustard greens and tender pork ribs simmered in a savory broth. Flavored with garlic, shallots, fermented soybean sheets, and tamarind, this tangy and hearty soup is a beloved comfort dish in Northern Thai cuisine.",
+  "description_zh": "泰北传统汤品，以酸菜搭配软嫩猪排骨炖煮，加入蒜、洋葱、发酵豆片及罗望子调味，汤头酸香开胃，是泰北家常菜中的经典美味。",
+  "ingredients_en": [
+    "Pork spare ribs (baby back ribs) 500 grams",
+    "Pork-flavored bouillon cube (Knorr) 1 cube",
+    "Shallots (sliced) 3 tablespoons",
+    "Garlic 5 tablespoons",
+    "Shrimp paste 1 tablespoon",
+    "Fermented soybean sheets (Thua Nao) 2 pieces",
+    "Tamarind juice 3 tablespoons",
+    "Chinese flowering cabbage (Choy Sum) 2 cups",
+    "Fried garlic (for garnish)",
+    "Fried dried chili (for garnish)"
+  ],
+  "ingredients_zh": [
+    "猪小排 500 克",
+    "家乐猪肉高汤块 1 块",
+    "洋葱头（切片）3 汤匙",
+    "大蒜 5 汤匙",
+    "虾酱 1 汤匙",
+    "发酵豆片 2 片",
+    "罗望子汁 3 汤匙",
+    "菜心 2 杯",
+    "炸蒜（装饰用）",
+    "炸干辣椒（装饰用）"
+  ],
+  "instructions_en": [
+    "Step 1: Pound shallots and garlic in a mortar until fine. Mix in shrimp paste and set aside.",
+    "Step 2: Bring water to a boil in a pot, add the pork-flavored bouillon cube.",
+    "Step 3: Once boiling, add the pork spare ribs and simmer until tender.",
+    "Step 4: Add the Chinese flowering cabbage (Choy Sum), followed by the prepared paste, fermented soybean sheets, and tamarind juice.",
+    "Step 5: Stir well and simmer for a few more minutes.",
+    "Step 6: Transfer to a serving bowl, garnish with fried garlic and fried dried chilies. Serve hot."
+  ],
+  "instructions_zh": [
+    "步骤1：将洋葱头和大蒜捣碎，加入虾酱混合备用。",
+    "步骤2：锅中加水煮沸，放入家乐猪肉高汤块。",
+    "步骤3：水沸后放入猪小排，炖煮至软嫩。",
+    "步骤4：加入菜心，接着放入捣好的调料、发酵豆片和罗望子汁。",
+    "步骤5：搅拌均匀，继续炖煮数分钟。",
+    "步骤6：盛入碗中，撒上炸蒜和炸干辣椒，即可食用。"
+  ],
+  "nutrition": [
+    "Calories: ~180 kcal per serving",
+    "Fat: 12g",
+    "Protein: 15g",
+    "Carbohydrates: 6g",
+    "Sugar: 2g",
+    "Sodium: ~850mg"
+  ],
+  "dietary_tags": [
+    "Traditional Northern Thai Dish",
+    "Soup",
+    "Pork",
+    "Savory",
+    "Comfort Food"
+  ],
+  "suitable_for": [
+    "General Public",
+    "Northern Thai Food Lovers",
+    "Soup Lovers",
+    "Pork Eaters"
+  ],
+  "region": "northern",
+  "category": "soup",
+  "spicy_level": "(1) Mild",
+  "image_main_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northern%2F20-Zor-Phak-Kat-main.png?alt=media",
+  "image_detail_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northern%2F20-Zor-Phak-Kat-thumb.png?alt=media",
+  "tags": "zor phak kat, northern thai soup, pickled mustard greens soup, pork ribs soup, traditional thai soup",
+  "recommend": "yes",
+  "available_season": "all year"
+}
+]

@@ -1,0 +1,1599 @@
+[
+{
+  "no": 1,
+  "dish_en_th": "Som Tam Thai (ส้มตำไทย)",
+  "dish_en": "Som Tam Thai (Thai-Style Spicy Green Papaya Salad)",
+  "dish_th": "ส้มตำไทย",
+  "dish_zh": "泰式青木瓜沙拉",
+  "pronunciation": "som tam thai",
+  "description_en": "Som Tam Thai is a vibrant Northeastern Thai green papaya salad. The shredded papaya is pounded with chilies, garlic, lime juice, fish sauce, and palm sugar, then tossed with tomatoes, long beans, and peanuts. A beloved street food known for its refreshing and spicy flavors.",
+  "description_zh": "泰式青木瓜沙拉，将青木瓜丝与辣椒、大蒜、青柠汁、鱼露和棕榈糖捣拌，加入番茄、长豆和花生，酸辣开胃，是广受欢迎的街头小吃。",
+  "ingredients_en": [
+    "2 cups shredded green papaya",
+    "1/2 cup shredded carrot",
+    "6-8 cherry tomatoes, halved",
+    "6-8 long beans, cut into 2-inch pieces",
+    "2-3 cloves garlic",
+    "3-5 bird’s eye chilies",
+    "2 tablespoons fish sauce",
+    "1 tablespoon palm sugar",
+    "1 tablespoon tamarind juice",
+    "2 tablespoons lime juice",
+    "2 tablespoons roasted peanuts",
+    "Fresh vegetables (optional, for serving)",
+    "Rice noodles (optional, for serving)"
+  ],
+  "ingredients_zh": [
+    "2 杯青木瓜丝",
+    "1/2 杯胡萝卜丝",
+    "6-8 个小番茄，对半切",
+    "6-8 根长豆，切段",
+    "2-3 瓣大蒜",
+    "3-5 个小米椒",
+    "2 汤匙鱼露",
+    "1 汤匙棕榈糖",
+    "1 汤匙罗望子汁",
+    "2 汤匙青柠汁",
+    "2 汤匙烤花生",
+    "新鲜蔬菜（可选）",
+    "米粉（可选）"
+  ],
+  "instructions_en": [
+    "Step 1: Pound garlic and chilies. Add fish sauce, palm sugar, tamarind juice, and lime juice.",
+    "Step 2: Add shredded green papaya, carrots, tomatoes, long beans. Mix gently.",
+    "Step 3: Transfer to a plate. Top with peanuts. Serve with fresh vegetables or rice noodles."
+  ],
+  "instructions_zh": [
+    "步骤1：将蒜末和辣椒捣碎，加入鱼露、棕榈糖、罗望子汁和青柠汁调味。",
+    "步骤2：加入切丝的青木瓜、胡萝卜、小番茄和长豆，轻轻拌匀。",
+    "步骤3：盛盘，撒上花生。可搭配新鲜蔬菜或米粉食用。"
+  ],
+  "nutrition": [
+    "Calories: 150 kcal",
+    "Fat: 5g",
+    "Protein: 5g",
+    "Carbohydrates: 23g",
+    "Sugar: 8g",
+    "Sodium: 582mg"
+  ],
+  "dietary_tags": [
+    "Low Fat",
+    "Low Sugar",
+    "Vegetarian Option",
+    "Spicy",
+    "Gluten Free"
+  ],
+  "suitable_for": [
+    "General Public",
+    "Tourists",
+    "Vegetarian",
+    "Spicy Food Lovers",
+    "Halal"
+  ],
+  "region": "northeastern",
+  "category": "salad",
+  "spicy_level": "(3) Hot",
+  "image_main_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northeastern%2F01-Som-Tam-main.jpg?alt=media  ",
+  "image_detail_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northeastern%2F01-Som-Tam-thumb.jpg?alt=media",
+  "tags": "salad, spicy, vegetarian option, northeastern, popular dish",
+  "recommend": "yes",
+  "available_season": "all year"
+},
+
+{
+  "no": 2,
+  "dish_en_th": "Larb Moo (ลาบหมู)",
+  "dish_en": "Larb Moo (Thai Spicy Minced Pork Salad)",
+  "dish_th": "ลาบหมู",
+  "dish_zh": "泰式香辣猪肉末沙拉",
+  "pronunciation": "larb moo",
+  "description_en": "Larb Moo is a classic Northeastern Thai minced pork salad. It features cooked minced pork mixed with fresh herbs, toasted rice powder, chili, lime juice, and fish sauce, delivering a spicy, tangy, and savory flavor.",
+  "description_zh": "泰式香辣猪肉末沙拉，煮熟的猪肉末搭配香草、炒米粉、辣椒、青柠汁和鱼露，酸辣开胃，口感丰富。",
+  "ingredients_en": [
+    "200 g minced pork",
+    "Pork skin, thinly sliced (optional)",
+    "2 tablespoons glutinous rice",
+    "3-5 dried chilies",
+    "3-4 kaffir lime leaves",
+    "2-3 shallots, sliced",
+    "2-3 spring onions, chopped",
+    "Coriander leaves",
+    "Mint leaves, for garnish",
+    "2 tablespoons fish sauce",
+    "1 tablespoon lime juice",
+    "1 teaspoon sugar"
+  ],
+  "ingredients_zh": [
+    "200 克猪肉末",
+    "猪皮丝（可选）",
+    "2 汤匙糯米",
+    "3-5 个干辣椒",
+    "3-4 片香柠叶",
+    "2-3 个红葱头，切片",
+    "2-3 根葱花",
+    "香菜",
+    "薄荷叶（装饰用）",
+    "2 汤匙鱼露",
+    "1 汤匙青柠汁",
+    "1 茶匙糖"
+  ],
+  "instructions_en": [
+    "Step 1: Toast glutinous rice in a pan until golden and fragrant. Grind into coarse powder.",
+    "Step 2: Toast dried chilies and grind into coarse powder.",
+    "Step 3: Boil minced pork and pork skin with water and kaffir lime leaves.",
+    "Step 4: Mix with shallots, spring onions, coriander, toasted rice powder.",
+    "Step 5: Season with fish sauce, sugar, lime juice, and chili powder. Garnish with mint leaves."
+  ],
+  "instructions_zh": [
+    "步骤1：将糯米放入锅中炒至金黄香脆，研磨成粗粉。",
+    "步骤2：将干辣椒炒香后研磨成粗粉。",
+    "步骤3：将猪肉末和猪皮与清水和香柠叶一起煮沸。",
+    "步骤4：加入洋葱、葱花、香菜和炒米粉搅拌均匀。",
+    "步骤5：用鱼露、糖、青柠汁和辣椒粉调味，撒上薄荷叶装饰。"
+  ],
+  "nutrition": [
+    "Calories: 127 kcal",
+    "Fat: 6g",
+    "Protein: 11g",
+    "Carbohydrates: 6g",
+    "Sugar: 2g",
+    "Sodium: 396mg"
+  ],
+  "dietary_tags": [
+    "High Protein",
+    "Low Carb",
+    "Spicy",
+    "Contains Pork",
+    "Gluten Free"
+  ],
+  "suitable_for": [
+    "General Public",
+    "Tourists",
+    "Spicy Food Lovers",
+    "Not Suitable for Halal",
+    "Not Suitable for Vegetarians"
+  ],
+  "region": "northeastern",
+  "category": "salad",
+  "spicy_level": "(4) Very Hot",
+  "image_main_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northeastern%2F02-Larb-Moo-main.jpg?alt=media",
+  "image_detail_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northeastern%2F02-Larb-Moo-thumb.jpg?alt=media",
+  "tags": "salad, spicy, pork, northeastern, classic dish",
+  "recommend": "yes",
+  "available_season": "all year"
+},
+{
+  "no": 3,
+  "dish_en_th": "Nam Tok Moo (น้ำตกหมู)",
+  "dish_en": "Nam Tok Moo (Spicy Grilled Pork Salad)",
+  "dish_th": "น้ำตกหมู",
+  "dish_zh": "泰式烤猪颈肉拌菜",
+  "pronunciation": "nam tok moo",
+  "description_en": "Nam Tok Moo is a Northeastern Thai spicy grilled pork salad. Juicy pork shoulder is grilled, sliced, and tossed with roasted rice powder, chili flakes, lime juice, fish sauce, and fresh herbs. A signature dish of Isan cuisine.",
+  "description_zh": "泰式烤猪颈肉拌菜，烤猪颈肉切片，拌入烤米粉、辣椒粉、青柠汁、鱼露和香草，酸辣开胃，是东北泰国代表性美食之一。",
+  "ingredients_en": [
+    "500 g pork shoulder or pork neck",
+    "1-2 teaspoons mushroom soy sauce (or light soy sauce)",
+    "Chili flakes, to taste",
+    "Sliced shallots, to taste",
+    "Roasted rice powder, to taste",
+    "Lime juice, to taste",
+    "Fish sauce, to taste",
+    "Spring onions, coriander, and sawtooth coriander, finely sliced",
+    "A little water or pork broth"
+  ],
+  "ingredients_zh": [
+    "500 克猪颈肉或猪肩肉",
+    "1-2 茶匙香菇酱油（或生抽）",
+    "辣椒粉，适量",
+    "切片红葱头，适量",
+    "烤米粉，适量",
+    "青柠汁，适量",
+    "鱼露，适量",
+    "葱段、香菜和刺芫荽，切碎",
+    "少量清水或高汤"
+  ],
+  "instructions_en": [
+    "Marinate pork shoulder with mushroom soy sauce for 10-30 minutes (optional).",
+    "Grill pork on a non-stick pan or charcoal grill over medium-low heat until 60-70% cooked.",
+    "Slice the grilled pork into bite-sized pieces.",
+    "Heat a pan with a little broth or water. Add sliced pork and stir gently over low heat to finish cooking.",
+    "Season with chili flakes, sliced shallots, lime juice, fish sauce, and roasted rice powder. Adjust flavors to taste.",
+    "Add sliced spring onions, coriander, and sawtooth coriander.",
+    "Serve warm with sticky rice and fresh vegetables."
+  ],
+  "instructions_zh": [
+    "将猪颈肉用香菇酱油腌制 10-30 分钟（可选）。",
+    "用不粘锅或炭火中小火烤至六七成熟。",
+    "将烤好的猪肉切片。",
+    "锅中加入少量高汤或水，放入切片猪肉，小火翻炒至全熟。",
+    "调入辣椒粉、红葱头、青柠汁、鱼露和烤米粉，调整口味。",
+    "加入葱段、香菜和刺芫荽，拌匀。",
+    "配糯米饭和新鲜蔬菜食用。"
+  ],
+  "nutrition": [
+    "Energy: ~350 kcal per serving",
+    "Protein: ~25 g",
+    "Fat: ~20 g",
+    "Carbohydrates: ~5 g",
+    "Fiber: ~2 g",
+    "Sodium: ~1000 mg"
+  ],
+  "dietary_tags": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein",
+    "spicy"
+  ],
+  "suitable_for": [
+    "adults",
+    "spicy food lovers",
+    "tourists seeking authentic Northeastern Thai cuisine"
+  ],
+  "region": "northeastern",
+  "category": "salad",
+  "spicy_level": "(3) Hot",
+  "image_main_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northeastern%2F03-NamTokMoo-main.jpg?alt=media",
+  "image_detail_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northeastern%2F03-NamTokMoo-thumb.jpg?alt=media",
+  "tags": "salad, spicy, pork, northeastern, grilled",
+  "recommend": "yes",
+  "available_season": "all year"
+},
+{
+  "no": 4,
+  "dish_en_th": "Gai Yang (ไก่ย่าง)",
+  "dish_en": "Gai Yang (Thai Grilled Chicken)",
+  "dish_th": "ไก่ย่าง",
+  "dish_zh": "泰式烤鸡",
+  "pronunciation": "gai yang",
+  "description_en": "Gai Yang is a popular Northeastern Thai grilled chicken. The chicken is marinated in a blend of herbs, spices, soy sauce, oyster sauce, and milk, then grilled over low heat until the skin is crispy and the meat is juicy. Often served with spicy dipping sauce and sticky rice.",
+  "description_zh": "泰式烤鸡，采用香料、酱油、蚝油和牛奶腌制后，慢火烤制，外皮酥脆、肉质多汁，常搭配辣味蘸酱和糯米饭食用。",
+  "ingredients_en": [
+    "1 whole chicken (approx. 1.8 kg)",
+    "2 tablespoons black pepper",
+    "10 cloves garlic",
+    "5 coriander roots",
+    "3 stalks lemongrass",
+    "7 slices ginger",
+    "8 shallots",
+    "2 teaspoons salt",
+    "2 tablespoons soy sauce",
+    "4 tablespoons oyster sauce",
+    "6 tablespoons seasoning sauce",
+    "8 tablespoons fresh milk",
+    "2 tablespoons vegetable oil"
+  ],
+  "ingredients_zh": [
+    "1 只整鸡（约1.8公斤）",
+    "2 汤匙黑胡椒",
+    "10 瓣大蒜",
+    "5 根香菜根",
+    "3 根香茅",
+    "7 片姜",
+    "8 个红葱头",
+    "2 茶匙食盐",
+    "2 汤匙酱油",
+    "4 汤匙蚝油",
+    "6 汤匙调味酱油",
+    "8 汤匙牛奶",
+    "2 汤匙植物油"
+  ],
+  "instructions_en": [
+    "Step 1: Prepare all marinade ingredients.",
+    "Step 2: Pound black pepper, garlic, coriander roots, lemongrass, ginger, and shallots into a fine paste.",
+    "Step 3: Mix the paste with salt, soy sauce, oyster sauce, seasoning sauce, and milk.",
+    "Step 4: Clean the whole chicken and marinate with the prepared mixture. Let marinate for at least 3 hours.",
+    "Step 5: After marinating, air-dry the chicken skin slightly.",
+    "Step 6: Grill the chicken over low heat, turning every 15 minutes and brushing the skin with oil.",
+    "Step 7: Grill for about 45 minutes or until the chicken is fully cooked and golden.",
+    "Step 8: Serve hot with spicy dipping sauce and sticky rice."
+  ],
+  "instructions_zh": [
+    "步骤1：准备所有腌料。",
+    "步骤2：将黑胡椒、大蒜、香菜根、香茅、姜和红葱头捣成细腻的酱料。",
+    "步骤3：将酱料与盐、酱油、蚝油、调味酱油和牛奶混合均匀。",
+    "步骤4：清洗整鸡，用调好的腌料腌制，至少腌制3小时。",
+    "步骤5：腌制后稍微风干鸡皮。",
+    "步骤6：用小火烤鸡，每15分钟翻面，并刷油。",
+    "步骤7：烤约45分钟，至鸡肉熟透、表皮金黄。",
+    "步骤8：搭配辣味蘸酱和糯米饭热食。"
+  ],
+  "nutrition": [
+    "Calories: 320 kcal",
+    "Fat: 18g",
+    "Protein: 30g",
+    "Carbohydrates: 5g",
+    "Sugar: 2g",
+    "Sodium: 850mg"
+  ],
+  "dietary_tags": [
+    "High Protein",
+    "Contains Poultry",
+    "Gluten Free",
+    "Dairy Containing",
+    "Grilled"
+  ],
+  "suitable_for": [
+    "General Public",
+    "Tourists",
+    "Grilled Food Lovers",
+    "Halal (if prepared with Halal chicken)"
+  ],
+  "region": "northeastern",
+  "category": "grilled dish",
+  "spicy_level": "(1) Mild",
+  "image_main_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northeastern%2F04-Gai-Yang-main.jpg?alt=media",
+  "image_detail_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northeastern%2F04-Gai-Yang-thumb.jpg?alt=media",
+  "tags": "grilled, chicken, northeastern, popular dish",
+  "recommend": "yes",
+  "available_season": "all year"
+},
+{
+  "no": 5,
+  "dish_en_th": "Khao Niew (ข้าวเหนียว)",
+  "dish_en": "Khao Niew (Thai Sticky Rice)",
+  "dish_th": "ข้าวเหนียว",
+  "dish_zh": "泰式糯米饭",
+  "pronunciation": "khao niew",
+  "description_en": "Khao Niew, or sticky rice, is a staple of Northeastern Thai cuisine. It is steamed to perfection and typically served with grilled meats, spicy salads, or sweet desserts.",
+  "description_zh": "泰式糯米饭，是东北泰国料理中的主食，蒸至软糯香甜，常搭配烤肉、辣拌菜或甜品食用。",
+  "ingredients_en": [
+    "3 cups glutinous rice"
+  ],
+  "ingredients_zh": [
+    "3 杯糯米"
+  ],
+  "instructions_en": [
+    "Step 1: Boil about 1 liter of water. Pour over the glutinous rice in a large bowl, ensuring the rice is fully submerged. Stir continuously for about 10 minutes to allow the rice to absorb water. Do not soak too long to avoid mushy rice.",
+    "Step 2: Drain the water. Rinse the rice with room-temperature water until the water runs clear.",
+    "Step 3: Transfer the rice into a cheesecloth. Allow excess water to drain completely. Create a small well in the center to help steam circulation.",
+    "Step 4: Prepare a steamer. Once the water is boiling, steam the rice for 30-35 minutes.",
+    "Step 5: Check doneness: properly cooked rice will look translucent and soft. Spread the rice on a tray to cool slightly before serving. Do not store the rice while hot to prevent sogginess."
+  ],
+  "instructions_zh": [
+    "步骤1：烧约1升水，倒入糯米中，确保米粒完全浸泡，持续搅拌约10分钟，让糯米充分吸水。注意不要泡太久，以免米饭变烂。",
+    "步骤2：倒掉水，用常温水冲洗糯米，直到水变清。",
+    "步骤3：将糯米倒入纱布袋，沥干多余水分，在中间挖个小孔，便于蒸汽循环。",
+    "步骤4：准备蒸锅，水沸后将糯米蒸30-35分钟。",
+    "步骤5：检查熟度，蒸好的糯米应呈半透明状且柔软。摊开放凉后再盛盘，避免趁热密封导致回潮。"
+  ],
+  "nutrition": [
+    "Calories: 169 kcal per 100 g cooked",
+    "Fat: 0.3g",
+    "Protein: 3g",
+    "Carbohydrates: 37g",
+    "Sugar: 0g",
+    "Sodium: 0mg"
+  ],
+  "dietary_tags": [
+    "Gluten Free",
+    "Vegan",
+    "Vegetarian",
+    "Low Fat",
+    "Dairy Free"
+  ],
+  "suitable_for": [
+    "General Public",
+    "Tourists",
+    "Vegetarian",
+    "Vegan",
+    "Halal"
+  ],
+  "region": "northeastern",
+  "category": "rice dish",
+  "spicy_level": "(0) Not spicy",
+  "image_main_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northeastern%2F05-Khao-Niew-main.jpg?alt=media",
+  "image_detail_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northeastern%2F05-Khao-Niew-thumb.jpg?alt=media",
+  "tags": "rice, staple, northeastern, steamed",
+  "recommend": "yes",
+  "available_season": "all year"
+},
+{
+  "no": 6,
+  "dish_en_th": "Tom Saep Kradook On (ต้มแซ่บกระดูกอ่อน)",
+  "dish_en": "Tom Saep Kradook On (Spicy Isaan Soup with Pork Bones)",
+  "dish_th": "ต้มแซ่บกระดูกอ่อน",
+  "dish_zh": "泰式酸辣猪软骨汤",
+  "pronunciation": "tom saep kradook on",
+  "description_en": "Tom Saep Kradook On is a famous Northeastern Thai spicy and sour soup with pork soft bones. The broth is infused with herbs like lemongrass, galangal, kaffir lime leaves, and balanced with lime juice and chilies.",
+  "description_zh": "泰式酸辣猪软骨汤，采用猪软骨炖煮，融合香茅、南姜、青柠叶等香料，搭配青柠汁和辣椒，汤味酸辣开胃，是东北泰国著名汤品。",
+  "ingredients_en": [
+    "1 kg pork soft bones",
+    "10 shallots",
+    "5 stalks lemongrass",
+    "5 slices young galangal",
+    "5 torn kaffir lime leaves",
+    "5 coriander roots",
+    "1 tamarind pulp pod",
+    "10 fresh chilies",
+    "8 fried dried chilies",
+    "1 tablespoon chili powder",
+    "1 tablespoon roasted rice powder",
+    "1 cup chopped spring onions and coriander",
+    "1 cup sawtooth coriander (Pak Chi Farang)",
+    "1.5 ladles fish sauce",
+    "1 ladle lime juice",
+    "1.5 liters water"
+  ],
+  "ingredients_zh": [
+    "猪软骨 1 公斤",
+    "红葱头 10 个",
+    "香茅 5 根",
+    "嫩南姜切片 5 片",
+    "撕碎的青柠叶 5 片",
+    "香菜根 5 根",
+    "罗望子果肉 1 个",
+    "新鲜辣椒 10 个",
+    "炸干辣椒 8 个",
+    "辣椒粉 1 汤匙",
+    "烤米粉 1 汤匙",
+    "葱花和香菜末 1 杯",
+    "刺芫荽（Pak Chi Farang）1 杯",
+    "鱼露 1.5 勺",
+    "青柠汁 1 勺",
+    "清水 1.5 升"
+  ],
+  "instructions_en": [
+    "Step 1: Bring water to a boil in a pot. Add tamarind pulp, coriander roots, half of the galangal, half of the lemongrass, shallots, half of the kaffir lime leaves, and fresh chilies. Simmer for a while.",
+    "Step 2: Add pork soft bones. Simmer over medium heat for 30–40 minutes. Skim off any scum to keep the broth clear.",
+    "Step 3: After simmering, remove the tamarind pulp. Add the remaining lemongrass and kaffir lime leaves.",
+    "Step 4: Turn off the heat and season with fish sauce, roasted rice powder, chili powder, chopped spring onions, coriander, sawtooth coriander, fried dried chilies, and finish with lime juice.",
+    "Step 5: Adjust seasoning to taste and serve hot."
+  ],
+  "instructions_zh": [
+    "步骤1：锅中加水煮沸，加入罗望子果肉、香菜根、一半的南姜、一半的香茅、红葱头、一半的青柠叶和新鲜辣椒，煮一会儿。",
+    "步骤2：加入猪软骨，中火炖煮30-40分钟，撇去浮沫，使汤清澈。",
+    "步骤3：煮好后捞出罗望子果肉，加入剩余的香茅和青柠叶。",
+    "步骤4：关火后调味，加入鱼露、烤米粉、辣椒粉、葱花、香菜末、刺芫荽、炸干辣椒，最后淋上青柠汁。",
+    "步骤5：根据口味调整调料，趁热食用。"
+  ],
+  "nutrition": [
+    "Calories: 210 kcal",
+    "Fat: 12g",
+    "Protein: 18g",
+    "Carbohydrates: 5g",
+    "Sugar: 1g",
+    "Sodium: 950mg"
+  ],
+  "dietary_tags": [
+    "Contains Pork",
+    "Spicy",
+    "Sour",
+    "Contains Herbs",
+    "Gluten Free",
+    "Traditional Northeastern Thai Dish"
+  ],
+  "suitable_for": [
+    "General Public",
+    "Tourists",
+    "Pork Eaters",
+    "Spicy Food Lovers",
+    "Soup Lovers",
+    "Northeastern Thai Food Lovers",
+    "Not Suitable for Vegetarians"
+  ],
+  "region": "northeastern",
+  "category": "soup",
+  "spicy_level": "(4) Very Hot",
+  "image_main_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northeastern%2F06-Tom-Saep-Kradook-On-main.png?alt=media",
+  "image_detail_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northeastern%2F06-Tom-Saep-Kradook-On-thumb.png?alt=media",
+  "tags": "soup, spicy, sour, pork, herbs, northeastern",
+  "recommend": "yes",
+  "available_season": "all year"
+},
+{
+  "no": 7,
+  "dish_en_th": "Jaew Bong (แจ่วบอง)",
+  "dish_en": "Jaew Bong (Isaan Fermented Fish Chili Paste)",
+  "dish_th": "แจ่วบอง",
+  "dish_zh": "泰式香辣发酵鱼酱",
+  "pronunciation": "jaew bong",
+  "description_en": "Jaew Bong is a traditional Northeastern Thai chili paste made with fermented fish (Pla Ra), herbs, and aromatics. It is stir-fried to a fragrant, savory-sweet paste and typically enjoyed with sticky rice and fresh vegetables.",
+  "description_zh": "泰式香辣发酵鱼酱，采用发酵鱼、香料和香草炒制而成，风味浓郁香辣，常搭配糯米饭和新鲜蔬菜食用。",
+  "ingredients_en": [
+    "300 g galangal",
+    "500 g lemongrass",
+    "1000 g shallots",
+    "500 g garlic",
+    "1000 g chopped fermented fish (Pla Ra)",
+    "A handful of kaffir lime leaves",
+    "1 tablespoon MSG (optional)",
+    "2 tablespoons sugar",
+    "Chili powder (to taste)"
+  ],
+  "ingredients_zh": [
+    "300 克南姜",
+    "500 克香茅",
+    "1000 克红葱头",
+    "500 克大蒜",
+    "1000 克剁碎发酵鱼（Pla Ra）",
+    "一把青柠叶",
+    "1 汤匙味精（可选）",
+    "2 汤匙白糖",
+    "辣椒粉（适量）"
+  ],
+  "instructions_en": [
+    "Step 1: Slice galangal, lemongrass, shallots, and garlic. Blend them together except for kaffir lime leaves.",
+    "Step 2: Stir-fry shallots and garlic until fragrant and softened.",
+    "Step 3: Add blended galangal and lemongrass. Stir-fry for about 5 minutes.",
+    "Step 4: Add chopped fermented fish (Pla Ra) and stir-fry until fully cooked. Then add chili powder.",
+    "Step 5: Season with sugar and MSG (if using). Stir well.",
+    "Step 6: Add finely sliced kaffir lime leaves, stir briefly, then turn off heat.",
+    "Step 7: Let cool. Store in jars for serving or selling."
+  ],
+  "instructions_zh": [
+    "步骤1：切片南姜、香茅、红葱头和大蒜，除青柠叶外，其余食材放入搅拌机打碎。",
+    "步骤2：锅中炒香红葱头和大蒜，炒至软化。",
+    "步骤3：加入打碎的南姜和香茅，翻炒约5分钟。",
+    "步骤4：加入剁碎发酵鱼，翻炒至熟透，随后加入辣椒粉。",
+    "步骤5：加入白糖和味精（可选），炒匀。",
+    "步骤6：撒入切细的青柠叶，翻炒几下，关火。",
+    "步骤7：放凉后装入瓶中保存，可食用或销售。"
+  ],
+  "nutrition": [
+    "Calories: 180 kcal per 100 g",
+    "Fat: 8g",
+    "Protein: 15g",
+    "Carbohydrates: 10g",
+    "Sugar: 2g",
+    "Sodium: 1500mg"
+  ],
+  "dietary_tags": [
+    "Contains Fish",
+    "Spicy",
+    "Savory",
+    "Fermented",
+    "Gluten Free",
+    "Traditional Northeastern Thai Dish"
+  ],
+  "suitable_for": [
+    "General Public",
+    "Tourists",
+    "Spicy Food Lovers",
+    "Fans of Traditional Thai Cuisine",
+    "Not Suitable for Vegetarians",
+    "Not Suitable for Halal"
+  ],
+  "region": "northeastern",
+  "category": "chili paste",
+  "spicy_level": "(5) Extra Hot",
+  "image_main_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northeastern%2F07-Jaew-Bong-main.jpg?alt=media",
+  "image_detail_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northeastern%2F07-Jaew-Bong-thumb.jpg?alt=media",
+  "tags": "chili paste, spicy, fermented, northeastern, dipping",
+  "recommend": "yes",
+  "available_season": "all year"
+},
+{
+  "no": 8,
+  "dish_en_th": "Moo Dad Deaw (หมูแดดเดียว)",
+  "dish_en": "Moo Dad Deaw (Thai Sun-Dried Pork Strips)",
+  "dish_th": "หมูแดดเดียว",
+  "dish_zh": "泰式风干炸猪肉",
+  "pronunciation": "moo dad deaw",
+  "description_en": "Moo Dad Deaw is a popular Northeastern Thai dish of sun-dried marinated pork. The pork is seasoned with garlic, coriander root, fish sauce, and sesame seeds, dried at low heat, then deep-fried until crispy on the outside and tender inside. Best served with sticky rice.",
+  "description_zh": "泰式风干炸猪肉，将腌制好的猪肉低温烘干后炸至外酥里嫩，风味浓郁，常搭配糯米饭食用。",
+  "ingredients_en": [
+    "1 kg pork shoulder or pork neck",
+    "8 cloves garlic",
+    "6 coriander roots",
+    "2 tablespoons oyster sauce",
+    "2 tablespoons fish sauce",
+    "2 teaspoons sugar",
+    "2 teaspoons black pepper",
+    "2 tablespoons white sesame seeds"
+  ],
+  "ingredients_zh": [
+    "1 公斤猪肩肉或猪颈肉",
+    "8 瓣大蒜",
+    "6 根香菜根",
+    "2 汤匙蚝油",
+    "2 汤匙鱼露",
+    "2 茶匙白糖",
+    "2 茶匙黑胡椒",
+    "2 汤匙白芝麻"
+  ],
+  "instructions_en": [
+    "Step 1: Slice pork shoulder into strips.",
+    "Step 2: Pound garlic and coriander roots into a paste.",
+    "Step 3: In a mixing bowl, combine pork strips with garlic paste, sesame seeds, oyster sauce, fish sauce, sugar, and black pepper. Mix well.",
+    "Step 4: Cover and marinate in the refrigerator for 2 hours.",
+    "Step 5: Arrange the marinated pork strips on a rack. Dry in an oven at 50°C for 3 hours.",
+    "Step 6: Deep-fry the dried pork until golden and cooked through.",
+    "Step 7: Serve hot with sticky rice."
+  ],
+  "instructions_zh": [
+    "步骤1：将猪肩肉切条。",
+    "步骤2：将大蒜和香菜根捣成糊状。",
+    "步骤3：在碗中将猪肉条与蒜泥、芝麻、蚝油、鱼露、糖和黑胡椒混合均匀。",
+    "步骤4：盖好放入冰箱腌制2小时。",
+    "步骤5：将腌好的猪肉条铺在烤网上，50°C低温烘干3小时。",
+    "步骤6：将风干后的猪肉炸至金黄熟透。",
+    "步骤7：趁热搭配糯米饭食用。"
+  ],
+  "nutrition": [
+    "Calories: 380 kcal per serving",
+    "Fat: 25g",
+    "Protein: 28g",
+    "Carbohydrates: 5g",
+    "Sugar: 2g",
+    "Sodium: 1200mg"
+  ],
+  "dietary_tags": [
+    "Contains Pork",
+    "High Protein",
+    "Savory",
+    "Gluten Free",
+    "Fried",
+    "Traditional Northeastern Thai Dish"
+  ],
+  "suitable_for": [
+    "General Public",
+    "Tourists",
+    "Pork Eaters",
+    "Snack Lovers",
+    "Not Suitable for Vegetarians",
+    "Not Suitable for Halal"
+  ],
+  "region": "northeastern",
+  "category": "fried dish",
+  "spicy_level": "(0) Not spicy",
+  "image_main_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northeastern%2F08-Moo-Dad-Deaw-main.png?alt=media",
+  "image_detail_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northeastern%2F08-Moo-Dad-Deaw-thumb.png?alt=media",
+  "tags": "fried, pork, northeastern, sun-dried, snack",
+  "recommend": "yes",
+  "available_season": "all year"
+},
+{
+  "no": 9,
+  "dish_en_th": "Nuea Dad Deaw (เนื้อแดดเดียว)",
+  "dish_en": "Nuea Dad Deaw (Thai Sun-Dried Beef Strips)",
+  "dish_th": "เนื้อแดดเดียว",
+  "dish_zh": "泰式风干炸牛肉",
+  "pronunciation": "nuea dad deaw",
+  "description_en": "Nuea Dad Deaw is a popular Northeastern Thai dish of sun-dried marinated beef. The beef is seasoned with palm sugar, fish sauce, coriander, and salt, then sun-dried and deep-fried until crispy yet tender. Best enjoyed with sticky rice.",
+  "description_zh": "泰式风干炸牛肉，腌制好的牛肉风干后炸至外酥里嫩，搭配糯米饭食用，风味浓郁。",
+  "ingredients_en": [
+    "1 kg beef round or sirloin",
+    "1/2 ladle seasoning sauce",
+    "200 g palm sugar (cooked and cooled)",
+    "40 g salt",
+    "1/2 teaspoon red food coloring (optional)",
+    "1 teaspoon ground coriander seeds"
+  ],
+  "ingredients_zh": [
+    "1 公斤牛臀肉或牛里脊",
+    "半勺调味酱油",
+    "200 克椰糖（煮融放凉）",
+    "40 克食盐",
+    "1/2 茶匙红色食用色素（可选）",
+    "1 茶匙研磨香菜籽"
+  ],
+  "instructions_en": [
+    "Step 1: Slice beef across the grain into long strips, not too thick or too thin.",
+    "Step 2: Simmer palm sugar until melted and fragrant. If too thick, add 2 ladles of water.",
+    "Step 3: Mix beef strips with seasoning sauce, palm sugar, salt, red food coloring, and ground coriander. Mix well.",
+    "Step 4: Marinate for 5 hours.",
+    "Step 5: Sun-dry the marinated beef in strong sunlight for about 2 hours.",
+    "Step 6: Deep-fry the dried beef until golden and cooked through.",
+    "Step 7: Serve hot with sticky rice."
+  ],
+  "instructions_zh": [
+    "步骤1：将牛肉顺纹切成长条，不宜太厚或太薄。",
+    "步骤2：将椰糖煮至融化香浓，若太稠可加2勺水。",
+    "步骤3：将牛肉条与调味酱油、椰糖、盐、红色食用色素和研磨香菜籽拌匀。",
+    "步骤4：腌制5小时。",
+    "步骤5：在强烈阳光下晒约2小时。",
+    "步骤6：将晒好的牛肉炸至金黄熟透。",
+    "步骤7：趁热搭配糯米饭食用。"
+  ],
+  "nutrition": [
+    "Calories: 390 kcal per serving",
+    "Fat: 18g",
+    "Protein: 35g",
+    "Carbohydrates: 6g",
+    "Sugar: 3g",
+    "Sodium: 1100mg"
+  ],
+  "dietary_tags": [
+    "Contains Beef",
+    "High Protein",
+    "Savory",
+    "Fried",
+    "Gluten Free",
+    "Traditional Northeastern Thai Dish"
+  ],
+  "suitable_for": [
+    "General Public",
+    "Tourists",
+    "Beef Eaters",
+    "Snack Lovers",
+    "Not Suitable for Vegetarians",
+    "Not Suitable for Halal"
+  ],
+  "region": "northeastern",
+  "category": "fried dish",
+  "spicy_level": "(0) Not spicy",
+  "image_main_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northeastern%2F09-Nuea-Dad-Deaw-main.png?alt=media",
+  "image_detail_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northeastern%2F09-Nuea-Dad-Deaw-thumb.png?alt=media",
+  "tags": "fried, beef, northeastern, sun-dried, snack",
+  "recommend": "yes",
+  "available_season": "all year"
+},
+{
+  "no": 10,
+  "dish_en_th": "Khao Jee (ข้าวจี่)",
+  "dish_en": "Khao Jee (Grilled Sticky Rice)",
+  "dish_th": "ข้าวจี่",
+  "dish_zh": "泰式烤糯米饼 (Khao Jee)",
+  "pronunciation": "khao jee",
+  "description_en": "Khao Jee is a popular Northeastern Thai street snack made from grilled sticky rice coated with egg. The crispy exterior contrasts with the soft, chewy interior, making it a delightful treat often enjoyed hot off the grill.",
+  "description_zh": "泰式烤糯米饼，是东北泰国街头小吃，将糯米饭裹蛋液烤制，外脆内糯，香气四溢，现烤现吃风味最佳。",
+  "ingredients_en": [
+    "Steamed sticky rice 500 grams",
+    "Coconut milk 1/2 cup",
+    "Eggs 2",
+    "Salt 1/2 teaspoon"
+  ],
+  "ingredients_zh": [
+    "蒸糯米 500 克",
+    "椰奶 1/2 杯",
+    "鸡蛋 2 个",
+    "盐 1/2 茶匙"
+  ],
+  "instructions_en": [
+    "Step 1: Mix coconut milk and salt until the salt dissolves. Pour into the sticky rice and knead well.",
+    "Step 2: Shape the sticky rice into balls or patties.",
+    "Step 3: Grill over low heat until slightly charred.",
+    "Step 4: Beat the eggs and coat the grilled sticky rice with the egg.",
+    "Step 5: Grill again over low heat until golden and slightly charred."
+  ],
+  "instructions_zh": [
+    "步骤1：将椰奶与盐混合搅拌至盐溶解，倒入糯米饭中揉匀。",
+    "步骤2：将糯米饭搓成球状或压成饼状。",
+    "步骤3：用小火烤至微微焦黄。",
+    "步骤4：将鸡蛋打散，将烤好的糯米团蘸上蛋液。",
+    "步骤5：再次用小火烤至表面金黄微焦即可。"
+  ],
+  "nutrition": [
+    "Calories: 220 kcal per serving",
+    "Fat: 8g",
+    "Protein: 6g",
+    "Carbohydrates: 30g",
+    "Sugar: 2g",
+    "Sodium: 300mg"
+  ],
+  "dietary_tags": [
+    "Contains Eggs",
+    "Contains Coconut Milk",
+    "Gluten Free",
+    "Vegetarian Friendly"
+  ],
+  "suitable_for": [
+    "General Public",
+    "Vegetarians (who consume eggs)",
+    "Tourists",
+    "Children",
+    "Street Food Lovers"
+  ],
+  "region": "northeastern",
+  "category": "grilled dish",
+  "spicy_level": "(0) Not spicy",
+  "image_main_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northeastern%2F10-Khao-Jee-main.png?alt=media",
+  "image_detail_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northeastern%2F10-Khao-Jee-thumb.png?alt=media",
+  "tags": "grilled, sticky rice, street food, northeastern, snack",
+  "recommend": "yes",
+  "available_season": "all year"
+},
+{
+  "no": 11,
+  "dish_en_th": "Sai Krok Isan (ไส้กรอกอีสาน)",
+  "dish_en": "Sai Krok Isan (Northeastern Thai Fermented Pork Sausage)",
+  "dish_th": "ไส้กรอกอีสาน",
+  "dish_zh": "泰式东北香肠",
+  "pronunciation": "sai krok isan",
+  "description_en": "Sai Krok Isan is a traditional Northeastern Thai fermented sausage made from ground pork, sticky rice, garlic, and pork skin. The mixture is stuffed into pork casings, fermented slightly, then grilled or fried to perfection. Served with cabbage, ginger, and chilies.",
+  "description_zh": "泰式东北香肠，以猪肉末、糯米、蒜末、猪皮混合，灌入猪肠衣中，稍微发酵后烤制或油炸，搭配卷心菜、生姜和辣椒食用，风味独特。",
+  "ingredients_en": [
+    "500 g ground pork with fat",
+    "1/2 cup cooked pork skin, sliced",
+    "1 cup steamed sticky rice",
+    "50 g chopped garlic",
+    "1/4 teaspoon salt",
+    "1 teaspoon pork seasoning powder (Knorr or equivalent)",
+    "100 g cleaned pork casing",
+    "1 cup all-purpose flour (for cleaning casing)",
+    "String for tying",
+    "Cabbage, sliced ginger, and bird’s eye chilies (for serving)"
+  ],
+  "ingredients_zh": [
+    "500 克猪肉末（带肥）",
+    "1/2 杯煮熟猪皮，切丝",
+    "1 杯蒸熟糯米",
+    "50 克蒜末",
+    "1/4 茶匙食盐",
+    "1 茶匙猪肉调味粉（Knorr 或同类产品）",
+    "100 克清洗干净的猪肠衣",
+    "1 杯中筋面粉（用于清洗肠衣）",
+    "绑线 1 条",
+    "卷心菜片、姜片、小米椒（配食）"
+  ],
+  "instructions_en": [
+    "Step 1: Clean pork casing by rubbing with salt and rinsing well. Then rub with flour to remove odors. Invert the casing and drain well.",
+    "Step 2: Mix ground pork, sliced pork skin, steamed sticky rice, chopped garlic, salt, and pork seasoning powder. Knead thoroughly.",
+    "Step 3: Stuff the mixture into the prepared casing. Tie with string to form links.",
+    "Step 4: Refrigerate overnight.",
+    "Step 5: Sun-dry for 1–2 hours before cooking.",
+    "Step 6: Grill or fry the sausages until fully cooked and golden.",
+    "Step 7: Serve with cabbage, ginger, and chilies."
+  ],
+  "instructions_zh": [
+    "步骤1：将猪肠衣用盐搓洗干净，再用面粉搓洗去腥味，翻面后沥干。",
+    "步骤2：将猪肉末、猪皮丝、蒸熟糯米、蒜末、盐和猪肉调味粉混合揉匀。",
+    "步骤3：将混合好的馅料灌入处理好的肠衣中，用绑线分段打结。",
+    "步骤4：放入冰箱冷藏一晚。",
+    "步骤5：取出后晒太阳1–2小时。",
+    "步骤6：烤制或油炸至熟透金黄。",
+    "步骤7：搭配卷心菜、生姜和辣椒食用。"
+  ],
+  "nutrition": [
+    "Calories: 320 kcal per serving",
+    "Fat: 22g",
+    "Protein: 18g",
+    "Carbohydrates: 8g",
+    "Sugar: 1g",
+    "Sodium: 950mg"
+  ],
+  "dietary_tags": [
+    "Contains Pork",
+    "Fermented",
+    "Grilled",
+    "Savory",
+    "Contains Garlic",
+    "Traditional Northeastern Thai Dish"
+  ],
+  "suitable_for": [
+    "General Public",
+    "Tourists",
+    "Pork Eaters",
+    "Street Food Lovers",
+    "Not Suitable for Vegetarians",
+    "Not Suitable for Halal"
+  ],
+  "region": "northeastern",
+  "category": "grilled dish",
+  "spicy_level": "(0) Not spicy",
+  "image_main_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northeastern%2F11-Sai-Krok-Isan-main.png?alt=media",
+  "image_detail_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northeastern%2F11-Sai-Krok-Isan-thumb.png?alt=media",
+  "tags": "grilled, pork, sausage, fermented, northeastern, street food",
+  "recommend": "yes",
+  "available_season": "all year"
+},
+{
+  "no": 12,
+  "dish_en_th": "Soup Nor Mai (ซุปหน่อไม้)",
+  "dish_en": "Soup Nor Mai (Spicy Isaan Bamboo Shoot Salad)",
+  "dish_th": "ซุปหน่อไม้",
+  "dish_zh": "泰式酸辣竹笋拌菜",
+  "pronunciation": "soup nor mai",
+  "description_en": "Soup Nor Mai is a spicy and sour bamboo shoot salad from Northeastern Thailand. Boiled bamboo shoots are tossed with fermented fish sauce, herbs, roasted rice powder, and chilies, making a light, fiber-rich, and flavorful dish.",
+  "description_zh": "泰式酸辣竹笋拌菜，采用煮熟竹笋拌以发酵鱼露、香草、炒米粉和辣椒，清爽开胃，富含纤维，是东北泰国特色菜肴。",
+  "ingredients_en": [
+    "Boiled bamboo shoots 500 g",
+    "2 tablespoons fish sauce",
+    "2 tablespoons fermented fish stock (Pla Ra)",
+    "2 tablespoons lime juice",
+    "1 tablespoon chili powder",
+    "2 tablespoons roasted rice powder",
+    "Sawtooth coriander (Pak Chi Farang)",
+    "Shallots, sliced",
+    "Mint leaves",
+    "Parsley",
+    "Chopped scallions",
+    "Toasted sesame seeds (optional)"
+  ],
+  "ingredients_zh": [
+    "煮熟竹笋 500 克",
+    "2 汤匙鱼露",
+    "2 汤匙发酵鱼汁（Pla Ra）",
+    "2 汤匙青柠汁",
+    "1 汤匙辣椒粉",
+    "2 汤匙炒米粉",
+    "刺芫荽（Pak Chi Farang）",
+    "洋葱切片",
+    "薄荷叶",
+    "香菜",
+    "葱花",
+    "芝麻（可选）"
+  ],
+  "instructions_en": [
+    "Step 1: Wash bamboo shoots thoroughly. Boil 2-3 times to remove odor and sourness. Set aside.",
+    "Step 2: Prepare seasoning mixture: fish sauce, fermented fish stock, lime juice, chili powder, roasted rice powder.",
+    "Step 3: Mix boiled bamboo shoots with seasoning mixture, sawtooth coriander, shallots, and sesame.",
+    "Step 4: Adjust seasoning to taste. Add mint leaves, parsley, and shallots. Mix well.",
+    "Step 5: Plate the salad. Garnish with chopped scallions, mint leaves, and roasted rice. Ready to serve."
+  ],
+  "instructions_zh": [
+    "步骤1：将竹笋彻底清洗，煮2-3次去除异味和酸味，沥干备用。",
+    "步骤2：准备调味料：鱼露、发酵鱼汁、青柠汁、辣椒粉和炒米粉。",
+    "步骤3：将煮好的竹笋与调味料、刺芫荽、洋葱和芝麻拌匀。",
+    "步骤4：根据口味调整调料，加入薄荷叶、香菜和洋葱，充分搅拌。",
+    "步骤5：装盘，撒上葱花、薄荷叶和炒米粉，即可食用。"
+  ],
+  "nutrition": [
+    "Calories: 120 kcal",
+    "Fat: 4g",
+    "Protein: 8g",
+    "Carbohydrates: 10g",
+    "Sugar: 3g",
+    "Sodium: 700mg"
+  ],
+  "dietary_tags": [
+    "Low Fat",
+    "Low Sugar",
+    "Rich in Fiber",
+    "Spicy",
+    "Gluten Free"
+  ],
+  "suitable_for": [
+    "General Public",
+    "Tourists",
+    "Spicy Food Lovers",
+    "Vegetarian",
+    "Halal",
+    "Low Calorie Diet"
+  ],
+  "region": "northeastern",
+  "category": "salad",
+  "spicy_level": "(3) Hot",
+  "image_main_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northeastern%2F12-Soup-Nor-Mai-main.png?alt=media",
+  "image_detail_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northeastern%2F12-Soup-Nor-Mai-thumb.png?alt=media",
+  "tags": "salad, bamboo shoots, spicy, northeastern, low calorie, healthy",
+  "recommend": "yes",
+  "available_season": "all year"
+},
+{
+  "no": 13,
+  "dish_en_th": "Larb Khai Mod Daeng (ลาบไข่มดแดง)",
+  "dish_en": "Larb Khai Mod Daeng (Northeastern Spicy Salad with Red Ant Eggs)",
+  "dish_th": "ลาบไข่มดแดง",
+  "dish_zh": "泰式蚂蚁卵辣拌菜",
+  "pronunciation": "larb khai mod daeng",
+  "description_en": "Larb Khai Mod Daeng is a unique Northeastern Thai salad made with ant eggs, roasted rice powder, chilies, and herbs. It is a seasonal delicacy with a soft texture and a bold, tangy, and spicy flavor.",
+  "description_zh": "泰式蚂蚁卵辣拌菜，是东北泰国特色菜，以蚂蚁卵、炒米粉、辣椒和香草调制而成，口感独特，酸辣开胃，属季节性美食。",
+  "ingredients_en": [
+    "200 g ant eggs",
+    "1 tablespoon roasted rice powder",
+    "1/2 tablespoon chili powder",
+    "1 stalk spring onion",
+    "1 stalk coriander",
+    "1 stalk sawtooth coriander",
+    "Mint leaves to taste",
+    "Juice of 1 lime",
+    "1 tablespoon fish sauce",
+    "5 shallots, sliced",
+    "2–3 bird’s eye chilies",
+    "Cucumber and assorted vegetables for serving"
+  ],
+  "ingredients_zh": [
+    "200 克蚂蚁卵",
+    "1 汤匙炒米粉",
+    "1/2 汤匙辣椒粉",
+    "1 根葱",
+    "1 根香菜",
+    "1 根刺芫荽",
+    "薄荷叶适量",
+    "1 个青柠汁",
+    "1 汤匙鱼露",
+    "5 个红葱头，切片",
+    "2–3 个小米椒",
+    "黄瓜及其他配菜"
+  ],
+  "instructions_en": [
+    "Step 1: Blanch ant eggs in hot water. Place in a mixing bowl and set aside.",
+    "Step 2: Add roasted rice powder, chili powder, fish sauce, sliced shallots, chopped spring onion, coriander, sawtooth coriander, and lime juice.",
+    "Step 3: Mix gently to combine. Adjust seasoning to taste.",
+    "Step 4: Plate the larb and garnish with mint leaves.",
+    "Step 5: Serve with cucumber and assorted vegetables."
+  ],
+  "instructions_zh": [
+    "步骤1：将蚂蚁卵用热水焯烫，捞出沥干备用。",
+    "步骤2：加入炒米粉、辣椒粉、鱼露、切片红葱头、葱花、香菜、刺芫荽和青柠汁，轻轻拌匀。",
+    "步骤3：根据口味调整调料。",
+    "步骤4：盛出后撒上薄荷叶点缀。",
+    "步骤5：搭配黄瓜及其他蔬菜一起食用。"
+  ],
+  "nutrition": [
+    "Calories: 160 kcal per serving",
+    "Fat: 8g",
+    "Protein: 14g",
+    "Carbohydrates: 5g",
+    "Sugar: 1g",
+    "Sodium: 600mg"
+  ],
+  "dietary_tags": [
+    "High Protein",
+    "Low Carb",
+    "Spicy",
+    "Gluten Free",
+    "Contains Insects",
+    "Traditional Northeastern Thai Dish"
+  ],
+  "suitable_for": [
+    "General Public",
+    "Tourists",
+    "Spicy Food Lovers",
+    "Adventurous Eaters",
+    "Not Suitable for Vegetarians"
+  ],
+  "region": "northeastern",
+  "category": "salad",
+  "spicy_level": "(4) Very Hot",
+  "image_main_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northeastern%2F13-Khai-Mod-Daen-main.png?alt=media",
+  "image_detail_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northeastern%2F13-Khai-Mod-Daen-thumb.png?alt=media",
+  "tags": "salad, ant eggs, spicy, northeastern, adventurous, traditional",
+  "recommend": "yes",
+  "available_season": "seasonal (available in rainy and early summer months)"
+},
+{
+  "no": 14,
+  "dish_en_th": "Mok Hed (หมกเห็ด)",
+  "dish_en": "Mok Hed (Steamed Mushrooms in Banana Leaf)",
+  "dish_th": "หมกเห็ด",
+  "dish_zh": "泰式香蒸蘑菇",
+  "pronunciation": "mok hed",
+  "description_en": "Mok Hed is a traditional Northeastern Thai dish of steamed mushrooms mixed with herbs and eggs, wrapped in banana leaves. The mixture is gently steamed, producing a fragrant and tender dish with herbal aroma.",
+  "description_zh": "泰式香蒸蘑菇，是东北泰国传统菜肴，将蘑菇与香料和鸡蛋混合后包裹在香蕉叶中蒸制，香气扑鼻，口感鲜嫩。",
+  "ingredients_en": [
+    "500 g oyster mushrooms",
+    "2 eggs",
+    "4 stalks lemongrass, sliced",
+    "5 shallots",
+    "10 bird’s eye chilies",
+    "2 cups lemon basil leaves (bai maenglak)",
+    "3 kaffir lime leaves, finely sliced",
+    "2 tablespoons fish sauce",
+    "Banana leaves for wrapping",
+    "Toothpicks for securing wraps"
+  ],
+  "ingredients_zh": [
+    "500 克平菇",
+    "鸡蛋 2 个",
+    "香茅 4 根，切片",
+    "红葱头 5 个",
+    "小米椒 10 个",
+    "柠檬罗勒叶 2 杯",
+    "青柠叶 3 片，切丝",
+    "鱼露 2 汤匙",
+    "香蕉叶（用于包裹）",
+    "牙签（用于固定）"
+  ],
+  "instructions_en": [
+    "Step 1: Pound lemongrass, shallots, and chilies into a fine paste. Set aside.",
+    "Step 2: In a mixing bowl, combine pounded herb paste with shredded oyster mushrooms, eggs, lemon basil leaves, kaffir lime leaves, and fish sauce. Mix well.",
+    "Step 3: Clean banana leaves and cut into circles. Place a portion of the mixture in the center of the leaf. Fold and secure with toothpicks.",
+    "Step 4: Steam the wrapped mixture over boiling water for 20 minutes.",
+    "Step 5: Serve hot. Optionally unwrap from banana leaf when serving."
+  ],
+  "instructions_zh": [
+    "步骤1：将香茅、红葱头和小米椒捣成细腻的酱料，备用。",
+    "步骤2：将酱料与撕成条状的平菇、鸡蛋、柠檬罗勒叶、青柠叶和鱼露混合均匀。",
+    "步骤3：清洗香蕉叶并剪成圆形，将适量混合物放在中间，包裹好后用牙签固定。",
+    "步骤4：放入蒸锅中，用沸水蒸20分钟。",
+    "步骤5：蒸熟后趁热食用，可根据需要打开香蕉叶享用。"
+  ],
+  "nutrition": [
+    "Calories: 150 kcal per serving",
+    "Fat: 7g",
+    "Protein: 10g",
+    "Carbohydrates: 8g",
+    "Sugar: 2g",
+    "Sodium: 800mg"
+  ],
+  "dietary_tags": [
+    "Low Carb",
+    "High Protein",
+    "Contains Eggs",
+    "Gluten Free",
+    "Steamed",
+    "Traditional Northeastern Thai Dish"
+  ],
+  "suitable_for": [
+    "General Public",
+    "Tourists",
+    "Vegetarian Friendly (egg ok)",
+    "Low Calorie Diet",
+    "Healthy Food Lovers"
+  ],
+  "region": "northeastern",
+  "category": "steamed dish",
+  "spicy_level": "(3) Hot",
+  "image_main_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northeastern%2F14-Mok-Hed-main.png?alt=media",
+  "image_detail_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northeastern%2F14-Mok-Hed-thumb.png?alt=media",
+  "tags": "steamed, mushroom, spicy, northeastern, healthy, traditional",
+  "recommend": "yes",
+  "available_season": "all year"
+},
+{
+  "no": 15,
+  "dish_en_th": "Pla Duk Yang (ปลาดุกย่าง)",
+  "dish_en": "Pla Duk Yang (Isaan-Style Grilled Catfish)",
+  "dish_th": "ปลาดุกย่าง",
+  "dish_zh": "泰式烤鲶鱼",
+  "pronunciation": "pla duk yang",
+  "description_en": "Pla Duk Yang is a popular Northeastern Thai dish of grilled catfish marinated with herbs and spices. The fish is grilled over charcoal, resulting in tender, smoky, and flavorful meat, often enjoyed with spicy dipping sauce and sticky rice.",
+  "description_zh": "泰式烤鲶鱼，是东北泰国受欢迎的菜肴，将鲶鱼用香料腌制后炭烤，鱼肉鲜嫩多汁，带有烟熏香气，常搭配辣酱和糯米饭食用。",
+  "ingredients_en": [
+    "2 catfish",
+    "4 coriander roots",
+    "5 cloves garlic",
+    "3 stalks lemongrass",
+    "1 piece fresh turmeric",
+    "1/4 teaspoon white pepper",
+    "1 tablespoon soy sauce",
+    "Tapioca starch (for cleaning fish)",
+    "Bamboo skewers (for grilling)"
+  ],
+  "ingredients_zh": [
+    "鲶鱼 2 条",
+    "香菜根 4 根",
+    "大蒜 5 瓣",
+    "香茅 3 根",
+    "鲜姜黄 1 块",
+    "白胡椒粉 1/4 茶匙",
+    "酱油 1 汤匙",
+    "木薯淀粉（用于清洗鱼）",
+    "竹签（用于烤制）"
+  ],
+  "instructions_en": [
+    "Step 1: Clean catfish by rubbing with tapioca starch to remove slime and odor. Rinse thoroughly.",
+    "Step 2: Pound coriander roots, garlic, white pepper, lemongrass, and turmeric into a coarse paste.",
+    "Step 3: Season the herb paste with soy sauce. Rub over the catfish to coat evenly. Marinate for 30 minutes.",
+    "Step 4: Skewer the marinated catfish and grill over low heat until fully cooked and slightly charred.",
+    "Step 5: Serve hot with spicy dipping sauce and sticky rice."
+  ],
+  "instructions_zh": [
+    "步骤1：用木薯淀粉搓洗鲶鱼，去除黏液和腥味，冲洗干净。",
+    "步骤2：将香菜根、大蒜、白胡椒、香茅和姜黄捣成粗糙的酱料。",
+    "步骤3：用酱油调味酱料，均匀涂抹在鲶鱼表面，腌制30分钟。",
+    "步骤4：将腌制好的鲶鱼穿上竹签，用小火慢烤至熟透并略微焦香。",
+    "步骤5：搭配辣酱和糯米饭趁热食用。"
+  ],
+  "nutrition": [
+    "Calories: 220 kcal per serving",
+    "Fat: 12g",
+    "Protein: 24g",
+    "Carbohydrates: 3g",
+    "Sugar: 1g",
+    "Sodium: 600mg"
+  ],
+  "dietary_tags": [
+    "Contains Fish",
+    "Low Carb",
+    "High Protein",
+    "Gluten Free",
+    "Grilled",
+    "Traditional Northeastern Thai Dish"
+  ],
+  "suitable_for": [
+    "General Public",
+    "Tourists",
+    "Fish Lovers",
+    "Low Carb Diet",
+    "Gluten Free Diet",
+    "Halal"
+  ],
+  "region": "northeastern",
+  "category": "grilled dish",
+  "spicy_level": "(0) Not spicy",
+  "image_main_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northeastern%2F15-Pla-Duk-Yang-main.png?alt=media",
+  "image_detail_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northeastern%2F15-Pla-Duk-Yang-thumb.png?alt=media",
+  "tags": "grilled, fish, catfish, northeastern, healthy, traditional",
+  "recommend": "yes",
+  "available_season": "all year"
+},
+{
+  "no": 16,
+  "dish_en_th": "Gaeng Nor Mai (แกงหน่อไม้)",
+  "dish_en": "Gaeng Nor Mai (Isaan Spicy Bamboo Shoot Soup)",
+  "dish_th": "แกงหน่อไม้",
+  "dish_zh": "泰式竹笋汤",
+  "pronunciation": "gaeng nor mai",
+  "description_en": "Gaeng Nor Mai is a Northeastern Thai bamboo shoot soup made with fresh bamboo shoots, yanang leaf juice, herbs, and fermented fish sauce. This earthy and healthy soup is aromatic, slightly spicy, and rich in traditional flavors.",
+  "description_zh": "泰式竹笋汤，是东北泰国传统汤品，采用新鲜竹笋、鸭脚木叶汁（Yanang）、香草和发酵鱼露烹制，口感清爽微辣，富有地道风味。",
+  "ingredients_en": [
+    "Fresh bamboo shoots",
+    "Yanang leaf juice",
+    "Lemon basil leaves (bai maenglak)",
+    "Cha-om (climbing wattle)",
+    "Lemongrass",
+    "Garlic",
+    "Bird’s eye chilies",
+    "Fish sauce",
+    "Fermented fish sauce (Pla Ra)",
+    "MSG (optional)",
+    "Salt",
+    "A small amount of sugar"
+  ],
+  "ingredients_zh": [
+    "新鲜竹笋",
+    "鸭脚木叶汁（Yanang）",
+    "柠檬罗勒叶",
+    "刺臭菜（Cha-om）",
+    "香茅",
+    "大蒜",
+    "小米椒",
+    "鱼露",
+    "发酵鱼露（Pla Ra）",
+    "味精（可选）",
+    "食盐",
+    "少许白糖"
+  ],
+  "instructions_en": [
+    "Step 1: Wash fresh bamboo shoots thoroughly and slice.",
+    "Step 2: Boil bamboo shoots with a small amount of sugar for about 10 minutes to reduce bitterness.",
+    "Step 3: In another pot, bring yanang leaf juice to a boil.",
+    "Step 4: Add boiled bamboo shoots to the yanang juice, followed by fermented fish sauce, fish sauce, salt, and MSG if using.",
+    "Step 5: Add lemon basil leaves and cha-om. Simmer until herbs are tender.",
+    "Step 6: Serve hot."
+  ],
+  "instructions_zh": [
+    "步骤1：将新鲜竹笋清洗干净，切片。",
+    "步骤2：竹笋加少许白糖煮约10分钟，去除苦味。",
+    "步骤3：另起锅煮鸭脚木叶汁至沸腾。",
+    "步骤4：加入煮好的竹笋，调入发酵鱼露、鱼露、食盐和味精（可选）。",
+    "步骤5：加入柠檬罗勒叶和刺臭菜，煮至软烂。",
+    "步骤6：趁热食用。"
+  ],
+  "nutrition": [
+    "Calories: 100 kcal per serving",
+    "Fat: 3g",
+    "Protein: 5g",
+    "Carbohydrates: 10g",
+    "Sugar: 2g",
+    "Sodium: 850mg"
+  ],
+  "dietary_tags": [
+    "Low Fat",
+    "Rich in Fiber",
+    "Spicy",
+    "Gluten Free",
+    "Traditional Northeastern Thai Dish"
+  ],
+  "suitable_for": [
+    "General Public",
+    "Tourists",
+    "Vegetarian Friendly (note Pla Ra)",
+    "Low Calorie Diet",
+    "Healthy Food Lovers"
+  ],
+  "region": "northeastern",
+  "category": "soup",
+  "spicy_level": "(3) Hot",
+  "image_main_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northeastern%2F16-Gaeng-Nor-Mai-main.png?alt=media  ",
+  "image_detail_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northeastern%2F16-Gaeng-Nor-Mai-thumb.png?alt=media",
+  "tags": "soup, bamboo shoots, spicy, northeastern, healthy, traditional",
+  "recommend": "yes",
+  "available_season": "all year"
+},
+{
+  "no": 17,
+  "dish_en_th": "Tab Waan (ตับหวาน)",
+  "dish_en": "Tab Waan (Spicy Isaan Pork Liver Salad)",
+  "dish_th": "ตับหวาน",
+  "dish_zh": "泰式香辣猪肝沙拉",
+  "pronunciation": "tab waan",
+  "description_en": "Tab Waan is a spicy and tangy Northeastern Thai salad made with tender slices of pork liver, herbs, and roasted rice powder. The dish offers a rich flavor with a balance of heat, sourness, and herbal aroma.",
+  "description_zh": "泰式香辣猪肝沙拉，采用嫩滑猪肝搭配香草和炒米粉调制而成，口感鲜香酸辣，风味独特，是东北泰国经典小吃。",
+  "ingredients_en": [
+    "300 g pork liver",
+    "1 sprig mint leaves",
+    "1 stalk spring onion, sliced",
+    "1 stalk sawtooth coriander, sliced",
+    "5 shallots, sliced",
+    "3 dried chilies",
+    "1 tablespoon lime juice",
+    "1/2 tablespoon chili powder",
+    "1 tablespoon roasted rice powder",
+    "1/2 tablespoon fish sauce",
+    "1/3 cup pork broth or stock"
+  ],
+  "ingredients_zh": [
+    "300 克猪肝",
+    "薄荷叶 1 枝",
+    "葱 1 根，切段",
+    "刺芫荽 1 根，切段",
+    "红葱头 5 个，切片",
+    "干辣椒 3 个",
+    "青柠汁 1 汤匙",
+    "辣椒粉 1/2 汤匙",
+    "炒米粉 1 汤匙",
+    "鱼露 1/2 汤匙",
+    "猪骨高汤 1/3 杯"
+  ],
+  "instructions_en": [
+    "Step 1: Slice pork liver into bite-sized pieces.",
+    "Step 2: Heat the broth in a pot until boiling. Quickly blanch the pork liver until just cooked through. Remove from heat.",
+    "TIP: Do not overcook the liver to avoid toughness.",
+    "Step 3: Season with fish sauce, roasted rice powder, chili powder, and lime juice.",
+    "Step 4: Add sliced shallots, sawtooth coriander, and spring onions. Mix gently.",
+    "Step 5: Plate and garnish with dried chilies and mint leaves. Serve immediately."
+  ],
+  "instructions_zh": [
+    "步骤1：将猪肝切成适口大小。",
+    "步骤2：锅中加热高汤至沸腾，快速将猪肝焯水至刚熟，捞出备用。",
+    "小贴士：勿过度烹煮，以免口感变硬。",
+    "步骤3：加入鱼露、炒米粉、辣椒粉和青柠汁调味。",
+    "步骤4：加入切片红葱头、刺芫荽和葱段，轻轻拌匀。",
+    "步骤5：装盘，撒上干辣椒和薄荷叶装饰，立即食用。"
+  ],
+  "nutrition": [
+    "Calories: 180 kcal per serving",
+    "Fat: 9g",
+    "Protein: 18g",
+    "Carbohydrates: 5g",
+    "Sugar: 1g",
+    "Sodium: 800mg"
+  ],
+  "dietary_tags": [
+    "High Protein",
+    "Low Carb",
+    "Spicy",
+    "Gluten Free",
+    "Contains Offal",
+    "Traditional Northeastern Thai Dish"
+  ],
+  "suitable_for": [
+    "General Public",
+    "Tourists",
+    "Spicy Food Lovers",
+    "Fans of Thai Offal Dishes",
+    "Not Suitable for Vegetarians",
+    "Not Suitable for Halal"
+  ],
+  "region": "northeastern",
+  "category": "salad",
+  "spicy_level": "(4) Very Hot",
+  "image_main_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northeastern%2F17-Khanom-Jeen-Sao-Nam-main.png?alt=media",
+  "image_detail_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northeastern%2F17-Khanom-Jeen-Sao-Nam-thumb.png?alt=media",
+  "tags": "salad, pork liver, spicy, northeastern, traditional, high protein",
+  "recommend": "yes",
+  "available_season": "all year"
+},
+{
+  "no": 18,
+  "dish_en_th": "Tam Thaad (ตำถาด)",
+  "dish_en": "Tam Thaad (Isaan-Style Spicy Papaya Salad Platter)",
+  "dish_th": "ตำถาด",
+  "dish_zh": "泰式拼盘木瓜沙拉",
+  "pronunciation": "tam thaad",
+  "description_en": "Tam Thaad is a popular Northeastern Thai platter featuring som tam (papaya salad) served with various accompaniments such as grilled pork, crispy pork, boiled eggs, fermented fish sauce, noodles, and fried pork rind. A modern street food favorite, perfect for sharing.",
+  "description_zh": "泰式拼盘木瓜沙拉，搭配烤猪肉、炸猪肉、煮鸡蛋、发酵鱼露、米粉、炸猪皮等多种配料，是现代泰国街头小吃中受欢迎的分享餐。",
+  "ingredients_en": [
+    "1 Vietnamese pork sausage (Moo Yor)",
+    "2 strips crispy pork belly",
+    "500 g dried fish (grilled or fried)",
+    "500 g crispy pork rind",
+    "1 kg grilled pork (marinated with soy sauce and palm sugar)",
+    "5 boiled eggs",
+    "1 kg rice noodles",
+    "Ingredients for Som Tam (Papaya Salad): shredded green papaya, shredded carrot, roasted peanuts, fermented crab, bird’s eye chilies, garlic, tomatoes, fish sauce, MSG (optional), tamarind juice, palm sugar, fermented fish sauce (Pla Ra)"
+  ],
+  "ingredients_zh": [
+    "越南猪肉卷 1 根",
+    "炸猪五花肉条 2 条",
+    "干鱼 500 克（烤或炸）",
+    "炸猪皮 500 克",
+    "烤猪肉 1 公斤（酱油和椰糖腌制）",
+    "煮鸡蛋 5 个",
+    "米粉 1 公斤",
+    "木瓜沙拉配料：青木瓜丝、胡萝卜丝、炒花生、发酵螃蟹、小米椒、大蒜、番茄、鱼露、味精（可选）、罗望子汁、椰糖、发酵鱼露（Pla Ra）"
+  ],
+  "instructions_en": [
+    "Step 1: Prepare all accompaniments: boil eggs, grill pork, fry crispy pork, and prepare rice noodles.",
+    "Step 2: Slice Vietnamese sausage and prepare crispy pork belly.",
+    "Step 3: For som tam, pound chilies and garlic. Add shredded papaya, carrot, fish sauce, tamarind juice, palm sugar, fermented fish sauce, and tomatoes. Gently mix.",
+    "Step 4: Adjust seasoning to taste. The salad should be slightly strong in flavor to balance with the accompaniments.",
+    "Step 5: Arrange everything on a large platter. Place som tam in the center and arrange accompaniments around it.",
+    "Step 6: Serve and enjoy with family or friends."
+  ],
+  "instructions_zh": [
+    "步骤1：准备所有配菜：煮鸡蛋、烤猪肉、炸猪肉、准备米粉。",
+    "步骤2：切片越南猪肉卷，炸好的猪五花肉切块。",
+    "步骤3：制作木瓜沙拉：捣碎小米椒和大蒜，加入青木瓜丝、胡萝卜丝、鱼露、罗望子汁、椰糖、发酵鱼露和番茄，轻轻拌匀。",
+    "步骤4：根据口味调整调料，沙拉应略重口味，以平衡其他配菜。",
+    "步骤5：将所有食材摆放在大盘中，木瓜沙拉置中，其他配菜环绕摆放。",
+    "步骤6：与家人朋友一起享用。"
+  ],
+  "nutrition": [
+    "Calories: 500 kcal per serving",
+    "Fat: 25g",
+    "Protein: 30g",
+    "Carbohydrates: 35g",
+    "Sugar: 5g",
+    "Sodium: 1200mg"
+  ],
+  "dietary_tags": [
+    "High Protein",
+    "Spicy",
+    "Street Food",
+    "Contains Pork",
+    "Traditional and Modern Northeastern Thai Dish"
+  ],
+  "suitable_for": [
+    "General Public",
+    "Tourists",
+    "Spicy Food Lovers",
+    "Meat Lovers",
+    "Not Suitable for Vegetarians",
+    "Not Suitable for Halal"
+  ],
+  "region": "northeastern",
+  "category": "platter / salad",
+  "spicy_level": "(4) Very Hot",
+  "image_main_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northeastern%2F18-Khao-Niew-Mamuang-main.png?alt=media",
+  "image_detail_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northeastern%2F18-Khao-Niew-Mamuang-thumb.png?alt=media",
+  "tags": "platter, som tam, spicy, pork, northeastern, street food, sharing dish",
+  "recommend": "yes",
+  "available_season": "all year"
+},
+{
+  "no": 19,
+  "dish_en_th": "Jaew Hon (แจ่วฮ้อน)",
+  "dish_en": "Jaew Hon (Isaan Spicy Hot Pot)",
+  "dish_th": "แจ่วฮ้อน",
+  "dish_zh": "泰式东北火锅",
+  "pronunciation": "jaew hon",
+  "description_en": "Jaew Hon is a Northeastern Thai-style hot pot featuring aromatic herbal broth spiced with chilies and served with thinly sliced pork, vegetables, and a spicy dipping sauce. A communal dish perfect for gatherings.",
+  "description_zh": "泰式东北火锅，采用香料高汤，搭配薄切猪肉、蔬菜和辣味蘸酱，风味浓郁，适合聚餐分享。",
+  "ingredients_en": [
+    "100 g fresh bird’s eye chilies",
+    "1/2 tablespoon chili powder",
+    "1/2 tablespoon Isan chili powder",
+    "1 tablespoon chicken seasoning powder",
+    "1/2 tablespoon oyster sauce",
+    "1/2 tablespoon light soy sauce",
+    "Lemongrass",
+    "Galangal",
+    "Sweet basil (horapha)",
+    "Shallots (preferably red shallots)",
+    "Pork slices (pork shoulder with slight fat, pork belly thinly sliced)",
+    "Assorted vegetables",
+    "Jaew dipping sauce (served separately)"
+  ],
+  "ingredients_zh": [
+    "100 克新鲜小米椒",
+    "1/2 汤匙辣椒粉",
+    "1/2 汤匙东北辣椒粉",
+    "1 汤匙鸡精粉",
+    "1/2 汤匙蚝油",
+    "1/2 汤匙生抽",
+    "香茅",
+    "南姜",
+    "甜罗勒（Horapha）",
+    "红葱头（推荐用红葱头）",
+    "猪肉片（五花肉薄片、带脂猪肩肉薄片）",
+    "各类蔬菜",
+    "泰式辣蘸酱（另上）"
+  ],
+  "instructions_en": [
+    "Step 1: Prepare herbs for the broth: lemongrass, galangal, sweet basil, and red shallots.",
+    "Step 2: Add Isan chili powder and regular chili powder directly into the boiling broth.",
+    "Step 3: Season the broth with chicken seasoning powder, oyster sauce, and light soy sauce.",
+    "Step 4: Adjust spice level by reducing chili if preferred.",
+    "Step 5: Prepare sliced pork (pork shoulder with slight fat and thin pork belly slices).",
+    "Step 6: Heat the broth to a rolling boil and dip pork slices briefly until just cooked.",
+    "Step 7: Serve with jaew dipping sauce and assorted vegetables."
+  ],
+  "instructions_zh": [
+    "步骤1：准备高汤香料：香茅、南姜、甜罗勒和红葱头。",
+    "步骤2：将东北辣椒粉和普通辣椒粉直接加入沸腾的高汤中。",
+    "步骤3：用鸡精粉、蚝油和生抽调味高汤。",
+    "步骤4：可根据口味调整辣度，减少辣椒用量。",
+    "步骤5：准备猪肉片（带脂猪肩肉薄片、五花肉薄片）。",
+    "步骤6：将高汤煮至沸腾，快速涮煮猪肉片至刚熟。",
+    "步骤7：搭配泰式辣蘸酱和各类蔬菜一起食用。"
+  ],
+  "nutrition": [
+    "Calories: 320 kcal per serving",
+    "Fat: 15g",
+    "Protein: 25g",
+    "Carbohydrates: 8g",
+    "Sugar: 3g",
+    "Sodium: 1000mg"
+  ],
+  "dietary_tags": [
+    "High Protein",
+    "Spicy",
+    "Low Carb",
+    "Gluten Free",
+    "Hot Pot",
+    "Traditional Northeastern Thai Dish"
+  ],
+  "suitable_for": [
+    "General Public",
+    "Tourists",
+    "Spicy Food Lovers",
+    "Hot Pot Lovers",
+    "Not Suitable for Vegetarians",
+    "Not Suitable for Halal"
+  ],
+  "region": "northeastern",
+  "category": "hot pot",
+  "spicy_level": "(5) Extra Hot",
+  "image_main_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northeastern%2F19-Tab-Waan-main.png?alt=media",
+  "image_detail_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northeastern%2F19-Tab-Waan-thumb.png?alt=media",
+  "tags": "hot pot, spicy, pork, northeastern, street food, sharing dish",
+  "recommend": "yes",
+  "available_season": "all year"
+},
+{
+  "no": 20,
+  "dish_en_th": "Kai Jiew Ton Hom (ไข่เจียวใส่ต้นหอม)",
+  "dish_en": "Kai Jiew Ton Hom (Thai Omelet with Spring Onions)",
+  "dish_th": "ไข่เจียวใส่ต้นหอม",
+  "dish_zh": "泰式葱花煎蛋",
+  "pronunciation": "kai jiew ton hom",
+  "description_en": "Kai Jiew Ton Hom is a simple and comforting Thai-style omelette with scallions. Crispy on the outside and fluffy inside, it pairs perfectly with rice and spicy Northeastern Thai dishes.",
+  "description_zh": "泰式葱花煎蛋，外酥里嫩，口感丰富，常搭配米饭或东北泰国的辣味菜肴食用，简单又美味。",
+  "ingredients_en": [
+    "2–3 eggs",
+    "1–2 stalks scallions (spring onions), sliced",
+    "2 teaspoons seasoning sauce",
+    "A pinch of Knorr seasoning powder (optional)",
+    "Cooking oil for frying"
+  ],
+  "ingredients_zh": [
+    "鸡蛋 2–3 个",
+    "葱 1–2 根，切段",
+    "调味酱油 2 茶匙",
+    "少许康宝调味粉（可选）",
+    "食用油（用于煎炸）"
+  ],
+  "instructions_en": [
+    "Step 1: Crack eggs into a bowl and beat until well mixed.",
+    "Step 2: Add sliced scallions, seasoning sauce, and optional Knorr seasoning powder. Beat again to combine.",
+    "Step 3: Heat oil in a pan until hot.",
+    "Step 4: Pour in the egg mixture and fry until golden and crispy on both sides.",
+    "Step 5: Remove and serve hot with rice."
+  ],
+  "instructions_zh": [
+    "步骤1：将鸡蛋打入碗中，搅打均匀。",
+    "步骤2：加入葱段、调味酱油和康宝调味粉（可选），再次搅打混合。",
+    "步骤3：锅中倒入油，烧热。",
+    "步骤4：倒入蛋液，煎至两面金黄酥脆。",
+    "步骤5：盛出，趁热配米饭食用。"
+  ],
+  "nutrition": [
+    "Calories: 220 kcal per serving",
+    "Fat: 18g",
+    "Protein: 12g",
+    "Carbohydrates: 2g",
+    "Sugar: 1g",
+    "Sodium: 600mg"
+  ],
+  "dietary_tags": [
+    "Contains Eggs",
+    "Low Carb",
+    "Gluten Free",
+    "Fried",
+    "Comfort Food",
+    "Common Thai Dish"
+  ],
+  "suitable_for": [
+    "General Public",
+    "Tourists",
+    "Children",
+    "Vegetarian Friendly (egg ok)",
+    "Gluten Free Diet"
+  ],
+  "region": "northeastern",
+  "category": "fried dish",
+  "spicy_level": "(0) Not spicy",
+  "image_main_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northeastern%2F20-Khao-Ram-Fuen-main.png?alt=media",
+  "image_detail_url": "https://firebasestorage.googleapis.com/v0/b/thaifoodguide-f109f.firebasestorage.app/o/northeastern%2F20-Khao-Ram-Fuen-thumb.png?alt=media",
+  "tags": "omelette, egg, scallion, northeastern, side dish, comfort food",
+  "recommend": "yes",
+  "available_season": "all year"
+}
+]
+
