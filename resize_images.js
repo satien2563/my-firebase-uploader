@@ -2,9 +2,9 @@ const sharp = require("sharp");
 const fs = require("fs");
 const path = require("path");
 
-const inputFolder = "./Images/Input_Southern/";
-const outputMainFolder = "./Images/Output_Southern/Main/";
-const outputThumbFolder = "./Images/Output_Southern/Thumb/";
+const inputFolder = "./Images/Input_Central/";
+const outputMainFolder = "./Images/Output_Central/Main/";
+const outputThumbFolder = "./Images/Output_Central/Thumb/";
 
 // Ensure output folders exist
 [outputMainFolder, outputThumbFolder].forEach(folder => {

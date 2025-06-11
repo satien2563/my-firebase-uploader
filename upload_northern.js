@@ -12,13 +12,12 @@ admin.initializeApp({
 const db = admin.firestore();
 
 // 3️⃣ read northern.json
-const data = JSON.parse(fs.readFileSync("./Northeastern.json", "utf8"));
+const data = JSON.parse(fs.readFileSync("./Central-Final.json", "utf8"));
 
 // 4️⃣ upload to firestore
 async function uploadNorthern() {
   try {
-    const docRef = db.collection("thai_food_guide").doc("northeastern");
-
+    const docRef = db.collection("thai_food_guide").doc("central");
     // ใช้ field: menus → ใส่ array ทั้งชุด
     await docRef.set({
       menus: data
